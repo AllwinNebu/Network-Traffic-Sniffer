@@ -136,7 +136,6 @@ When prompted:
 
 
 
-## 👨‍💻 Author
 
-Developed by \[Allwin Nebu].
+
 
