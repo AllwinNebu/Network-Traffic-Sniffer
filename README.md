@@ -76,5 +76,23 @@ python Sniffer.py
 
 ---
 
+<<<<<<< HEAD
 ## 👨‍💻 Author
 Developed by **Allwin Nebu**.
+=======
+## 🧠 Technical Overview
+
+* **Raw Sockets** used to read low-level packets.
+* Protocol headers are parsed using `struct.unpack`.
+* Packet saving is handled via JSON serialization.
+* Filtering uses protocol number mapping (e.g., TCP = 6).
+* IP and MAC addresses are formatted for readability.
+
+---
+
+
+
+
+
+
+>>>>>>> 1c0fd021b4bbcfe58187c8d9fcc8a90c5759d5fe
