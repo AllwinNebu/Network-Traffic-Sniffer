@@ -1,0 +1,2383 @@
+Packet Capture Summary
+==================================================
+
+Capture Time: 2025-07-04 20:41:27
+Total Packets: 210
+
+IP Versions:
+  IPv4: 210 packets
+  IPv6: 0 packets
+
+Protocols:
+  IGMP: 153 packets
+  UDP: 57 packets
+
+Packet Details:
+--------------------------------------------------
+
+Packet 1:
+  Time: 2025-07-04 20:40:35.453
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 2:
+  Time: 2025-07-04 20:40:35.457
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 3:
+  Time: 2025-07-04 20:40:35.474
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 4:
+  Time: 2025-07-04 20:40:35.493
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 5:
+  Time: 2025-07-04 20:40:35.545
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 58 bytes
+  Ports: 53980 -> 53
+  Payload Length: 38 bytes
+  Payload (ASCII): ...5.&U.e...........cdn.honey.io.....
+  Payload (HEX): d2 dc 00 35 00 26 55 db 90 65 01 00 00 01 00 00 00 00 00 00 03 63 64 6e 05 68 6f 6e 65 79 02 69 6f 00 00 01 00 01
+
+Packet 6:
+  Time: 2025-07-04 20:40:35.556
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 58 bytes
+  Ports: 54968 -> 53
+  Payload Length: 38 bytes
+  Payload (ASCII): ..5.&.............cdn.honey.io..A..
+  Payload (HEX): d6 b8 00 35 00 26 ef 9c f2 87 01 00 00 01 00 00 00 00 00 00 03 63 64 6e 05 68 6f 6e 65 79 02 69 6f 00 00 41 00 01
+
+Packet 7:
+  Time: 2025-07-04 20:40:35.561
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.237.184
+  Destination: 224.0.0.251
+  Length: 69 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 49 bytes
+  Payload (ASCII): .....1...............ivins._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 31 95 c3 00 00 00 00 00 01 00 00 00 00 00 00 05 69 76 69 6e 73 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 80 01
+
+Packet 8:
+  Time: 2025-07-04 20:40:35.571
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 9:
+  Time: 2025-07-04 20:40:35.576
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 10:
+  Time: 2025-07-04 20:40:35.586
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 11:
+  Time: 2025-07-04 20:40:35.589
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 12:
+  Time: 2025-07-04 20:40:35.601
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 13:
+  Time: 2025-07-04 20:40:35.610
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 14:
+  Time: 2025-07-04 20:40:35.618
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 15:
+  Time: 2025-07-04 20:40:35.623
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 16:
+  Time: 2025-07-04 20:40:35.639
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 17:
+  Time: 2025-07-04 20:40:35.644
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 18:
+  Time: 2025-07-04 20:40:35.651
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 19:
+  Time: 2025-07-04 20:40:35.660
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 20:
+  Time: 2025-07-04 20:40:35.667
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 21:
+  Time: 2025-07-04 20:40:35.670
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 22:
+  Time: 2025-07-04 20:40:35.678
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 23:
+  Time: 2025-07-04 20:40:35.681
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 24:
+  Time: 2025-07-04 20:40:35.691
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 25:
+  Time: 2025-07-04 20:40:35.702
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 26:
+  Time: 2025-07-04 20:40:35.707
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 27:
+  Time: 2025-07-04 20:40:35.712
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 28:
+  Time: 2025-07-04 20:40:35.717
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 29:
+  Time: 2025-07-04 20:40:35.722
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 30:
+  Time: 2025-07-04 20:40:35.727
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 31:
+  Time: 2025-07-04 20:40:35.737
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 32:
+  Time: 2025-07-04 20:40:35.742
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.235.26
+  Destination: 239.255.255.250
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 fa 04 ef ff ff fa
+
+Packet 33:
+  Time: 2025-07-04 20:40:35.753
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 34:
+  Time: 2025-07-04 20:40:35.758
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 35:
+  Time: 2025-07-04 20:40:35.768
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 36:
+  Time: 2025-07-04 20:40:35.778
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.224.196
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 37:
+  Time: 2025-07-04 20:40:35.788
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 38:
+  Time: 2025-07-04 20:40:35.793
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 39:
+  Time: 2025-07-04 20:40:35.801
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 40:
+  Time: 2025-07-04 20:40:35.811
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 66 bytes
+  Ports: 64094 -> 53
+  Payload Length: 46 bytes
+  Payload (ASCII): .^.5................fonts.googleapis.com.....
+  Payload (HEX): fa 5e 00 35 00 2e b8 cd d5 a2 01 00 00 01 00 00 00 00 00 00 05 66 6f 6e 74 73 0a 67 6f 6f 67 6c 65 61 70 69 73 03 63 6f 6d 00 00 01 00 01
+
+Packet 41:
+  Time: 2025-07-04 20:40:35.940
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 8.0.8.0
+  Length: 66 bytes
+  Ports: 64094 -> 53
+  Payload Length: 46 bytes
+  Payload (ASCII): .^.5................fonts.googleapis.com.....
+  Payload (HEX): fa 5e 00 35 00 2e aa cf d5 a2 01 00 00 01 00 00 00 00 00 00 05 66 6f 6e 74 73 0a 67 6f 6f 67 6c 65 61 70 69 73 03 63 6f 6d 00 00 01 00 01
+
+Packet 42:
+  Time: 2025-07-04 20:40:36.000
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 74 bytes
+  Ports: 53 -> 53980
+  Payload Length: 54 bytes
+  Payload (ASCII): .5...6s..e...........cdn.honey.io..............|.....6
+  Payload (HEX): 00 35 d2 dc 00 36 73 a1 90 65 81 80 00 01 00 01 00 00 00 00 03 63 64 6e 05 68 6f 6e 65 79 02 69 6f 00 00 01 00 01 c0 0c 00 01 00 01 00 00 00 7c 00 04 82 d3 1e 36
+
+Packet 43:
+  Time: 2025-07-04 20:40:36.013
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 82 bytes
+  Ports: 53 -> 64094
+  Payload Length: 62 bytes
+  Payload (ASCII): .5.^.>$K............fonts.googleapis.com..............).....
+  Payload (HEX): 00 35 fa 5e 00 3e 24 4b d5 a2 81 80 00 01 00 01 00 00 00 00 05 66 6f 6e 74 73 0a 67 6f 6f 67 6c 65 61 70 69 73 03 63 6f 6d 00 00 01 00 01 c0 0c 00 01 00 01 00 00 01 29 00 04 8e fa c3 aa
+
+Packet 44:
+  Time: 2025-07-04 20:40:36.028
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 61 bytes
+  Ports: 61539 -> 53
+  Payload Length: 41 bytes
+  Payload (ASCII): .c.5.)..e............www.gstatic.com.....
+  Payload (HEX): f0 63 00 35 00 29 e0 db 65 f2 01 00 00 01 00 00 00 00 00 00 03 77 77 77 07 67 73 74 61 74 69 63 03 63 6f 6d 00 00 01 00 01
+
+Packet 45:
+  Time: 2025-07-04 20:40:36.041
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 142.250.195.170
+  Length: 1278 bytes
+  Ports: 61604 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): .....O..........~...7..D.d.f4..o(E..k..)..A.p...[rK..(.Z...{O.J....M.[.&.M2...I..=.w.x?*$........C..?..|........<....SP....k.^..F...9>.$.......F.X..at ......E....H.I.d......A.........V.}.....)?.X.y..@.G.F]..".T.....G.....l.x.bl.7+..-...@.<.B.>...^..t..c.q.....%/e....?,O{..ix2...,;....b.......p....`Z.4...j3.%d.4..o....U..N.....&.V.W........v._d%....A....~.....0...)C.".y.q......q%A.z.u5.:..D\.....g.....r'..W.K'.W.\..j..E..8=.#y.....}.E..r.%......6X.fG..\....I...F..E.z.m'...=K.]..x..........Oig....Yd".K_@^".$...^.\......3.a......... ...V.V?.z..P.e#...7.. ...-...=..k.I-(!.mQ. pyf...@h4......Q.....tt....~....[.. ..J..J.KU...z/..1*..y..8..}..E..g@.0..?....V..4./$8.x.X..$-...n.`...p...\..{.UYS4m.....Y...l@[w.4........@`.hM.:...a;{{....R.puuo_8..../..7.....M.V;..].\../..Pt.......d..piL...B....#...W..d{C."sW.0d.......um..-..3Lw.&.M.1"..f8..:,.$9.5:.W...E...L^....z..<.!.....g./.<hq.?..mL......o.....U'..7c%.....J.P.^.yAj.C.Q._..Z.D.@O.@.%a.h..w[...g....an.OY...j...F....,.J.2P/.`..O>3....-...<\......g..I...._0.=....4w.5.@.....r/V\..".{R....~1.e..h....Y.;....&.. .......g..<......cCzU....5.`..Y.(vQ]D.\.Y..#sN.....yu..N..v`.k.wl....8Z=..U..pC@.%p/j.O.%."..6..p..s......z.0.R].._...z~9[.u..
+  Payload (HEX): f0 a4 01 bb 04 ea 4f b8 c1 00 00 00 01 08 ac af 1a 7e d1 c0 7f 37 00 00 44 d0 64 92 66 34 af a4 6f 28 45 94 a5 6b e8 ec 29 02 ca 41 cb b0 70 d2 e7 f4 5b 72 4b ff f8 28 1b 5a 84 cc 82 be 7b 4f c4 4a ce 90 d8 ed 9c 83 85 4d d9 5b de 26 dc 4d 32 16 10 d5 49 80 9e 3d c9 77 fc 78 3f 2a 24 9c 8f ef 0a 94 0b fb f9 43 e2 d9 3f a5 1c 7c ac f5 1a 94 d5 da 84 f8 a5 3c e0 9e 1c f8 53 50 f6 f7 1c b7 6b d5 5e 01 e1 b3 46 1f e2 00 39 3e ef 24 d8 11 8d 92 a6 02 f8 46 ed 58 90 de 61 74 20 87 a9 c7 ee d1 03 45 a2 a5 a3 cb 48 8e 49 b5 64 16 bd 84 0c cc 08 41 ba 16 f2 cc 0c a0 02 99 e4 aa a5 56 19 7d 15 bb d0 15 c7 29 3f 04 58 86 79 2e e2 40 e2 47 b1 46 5d 90 f8 22 0f 54 ee 98 07 ae a6 e8 47 c2 a0 07 de b2 18 ba 6c f7 78 16 62 6c ae 37 2b 02 9c 2d f5 8b d5 40 d3 96 3c 2e 42 c9 3e 8d 80 8b 5e df f1 74 ba 98 63 c9 83 71 e1 e5 86 e3 f7 09 25 2f 65 e9 fc f6 cb 3f 2c 4f 7b 82 14 69 78 32 98 90 e2 2c 3b a2 93 d7 d9 b2 62 d0 80 99 c8 f9 ae a9 ca 9c 70 b0 ef d2 1b 60 5a 9b 34 8d 85 fb 6a 33 8c 25 64 a7 34 be d6 6f d4 83 fe c2 11 55 07 b9 4e ad fc 96 ff f6 26 be 56 b4 57 ba fb 00 f4 df b5 bd 2e 95 76 d6 5f 64 25 ca 07 17 aa 41 1e eb fe d1 7e fe 8e 9d 84 b2 30 07 81 dd 29 43 93 22 f5 79 df 8a 71 b5 15 e1 16 03 93 71 25 41 8b 7a 18 75 35 80 3a b1 ef a0 44 5c d9 0e a7 c8 96 96 67 13 e9 01 17 b9 72 27 98 a4 57 82 4b 27 de 57 d9 5c e9 b9 9a 8d 6a 92 01 45 18 f0 38 3d 06 23 79 ab a9 16 b7 c9 7d 84 45 f0 8b 72 b7 25 f6 05 05 0b ee ea a9 36 58 f9 66 47 18 af 5c b8 80 c8 e2 49 85 ec 06 46 ed 16 45 04 7a ea a8 b2 6d 27 b8 01 11 3d 4b c7 ac 5d 1e 1f 78 ee fd 15 c5 d7 ae 80 14 f6 11 8a 4f 69 67 b3 a2 1d 05 59 64 22 1e 4b 5f 40 5e 22 08 24 de d4 a9 0a 5e 05 5c 1b b7 c8 c5 ed 16 33 fe 61 e7 cb f7 1b 0a 9f da b4 09 8f 20 cf ee c2 56 c7 56 3f 8a 7a f8 c9 50 e9 65 23 9a a9 a0 37 eb 01 20 84 98 18 2d 04 01 91 3d b2 94 6b b2 49 2d 28 21 81 6d 51 04 20 70 79 66 f1 ad 10 b8 40 68 34 c1 93 14 98 9d d7 51 d2 f9 16 09 03 74 74 8a e8 c8 e8 7e f7 9b 19 e3 5b 93 04 20 cf 07 4a 15 d6 a1 4a 1a 4b 55 0b 9a b3 7a 2f aa 14 31 2a 0e d9 79 95 d1 9c 38 10 a0 7d f2 10 45 b3 f0 a2 67 40 f0 30 19 e8 3f 98 81 a8 0f 56 98 b4 34 ae 2f 24 38 06 78 c6 58 b5 80 24 2d ff ea e8 6e aa 60 bb d5 b2 09 70 a9 1b e0 5c 98 9d 7b 0a 55 59 53 34 6d 18 03 15 cb d7 59 a6 13 fb 6c 40 5b 77 1f 34 1f e3 1b ec e4 08 1b 14 40 60 9f 68 4d 7f 3a be 82 8c 61 3b 7b 7b a1 b5 e8 bc d5 52 db 70 75 75 6f 5f 38 cc 8b c4 08 af 2f bd a4 37 dd e4 fe a7 ba 4d 15 56 3b 89 ea 5d 91 5c be fa 2f f5 cc ae 50 74 91 e9 d0 d7 07 fb 0e 64 e2 91 85 fe 70 69 4c ff b4 bc 42 82 bc 9d 8c 23 a0 14 b8 57 f8 15 64 7b 43 c0 22 73 57 c1 30 64 f6 a9 85 f3 d7 91 e7 8f f4 75 6d f9 e6 2d 97 b2 33 4c 77 13 26 85 4d 82 31 22 df c7 66 38 9e 8e 3a 2c b5 24 39 87 35 3a fc 57 d9 a6 b0 06 45 8f 16 d5 4c 5e bb e8 b6 e3 bd 07 7a ba b9 3c 81 21 8e e0 c7 e8 14 67 ce b4 2f 7f 3c 68 71 fa 3f de fe 6d 4c 8c 94 84 9d c6 bd ea af 6f b0 c2 e4 2e ed 55 27 7f 83 37 63 25 f0 fb f8 d1 95 92 4a 0d 50 b8 5e 0f 79 41 6a d4 8c 43 e3 51 cd 5f b7 a0 5a a0 44 dc 40 4f f9 40 d6 25 61 d2 85 68 82 e2 ae 77 5b 9e d9 19 67 ff b7 83 03 61 6e bf 4f 59 b2 00 c0 6a ba f3 dd 46 14 a1 bc 17 2c f0 4a fa 32 50 2f a8 60 8c 0d 4f 3e 33 fa fd f3 06 2d 10 9f c3 3c 5c b6 cf f1 02 d7 fc 67 fb eb 49 00 e4 d4 bb 9f 5f 30 ed 3d b1 80 fe 1c 34 77 96 35 94 40 dd ab f3 cf d8 16 72 2f 56 5c d8 fc 22 e2 7b 52 b0 b4 9d 0a 7e 31 b8 65 97 ac 68 f3 f9 a2 e2 59 98 3b eb 9d 8c d0 80 09 96 26 ff cf 20 87 91 bb ea 13 81 ac 67 c1 ec 3c cc a8 18 b4 f6 e6 9a 2e 63 43 7a 55 98 99 b6 96 35 fb 60 08 bc 59 c7 28 76 51 5d 44 eb b7 5c 1e 59 f6 ef a2 23 73 4e 8e a0 0d a2 16 79 75 ed a4 4e 8c c1 76 60 d7 6b 06 77 6c f8 a2 cd 00 38 5a 3d 0b 9a 55 a5 de 70 43 40 c0 25 70 2f 6a c2 4f b0 25 ef 22 cb 14 36 9b 80 70 fc 8c 73 d7 c8 d1 89 e6 bd 05 b7 7a dc 30 82 52 5d aa e4 5f a4 95 f0 7a 7e 39 5b 16 75 a9 a0
+
+Packet 46:
+  Time: 2025-07-04 20:40:36.093
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 142.250.195.170
+  Length: 1278 bytes
+  Ports: 61604 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): ...............~...7..D...(...V.6.....S..e.Z.........5)j.9...%...g%.c......./ .I.|....Q.......[d..D..[.O.2L.....H.V.90|...s..[.5..Y.*...*..{..uF....O.?..j..bP0z.u.z.;...+:..~.....l2fx.@Lt....*.T.[/Ow..G.....py.e.U.....yKT......hP....;{{..|...9.[....K.$.....;..4}E.1U..K.d*.<I..^V.W.+.. .1=[d.._...K[...x.;..@.............6.vc.z......}C.....!.*4.g.K...}..h\....!Yd......xh..3....R..!...8..~Qdp.G+..g.0..KI..f.$....>.uV.J.L..8%Th;w.8.g.YV[..Cj......"?$.|....&...r].~...@...sc......j...f(.<$.X7UE....1<.p?'...bTg....Y..........{b)...Xj&'=>.......)......r....ZXWc..]]..d8.3f..S.w.U*?.@.`.}.J..~.C.O.rui.i.o.G....p..)..y..0.....x.T...~....#...;.'...7..xK.!.....a.....c~....GeJ.L2.\..^......nneI.w}k.J......H.j....t....l..$.J......'jD.X.+........`Lm....>._..].Z....d..{N.(.:..8p..`......`..s..9.e...Ms..?...,~..*.27p...?..)fG.Kp./d8F._.V...=bh.... ....r...g...^......b...f.y..ei=.T....q..c..P....v..@rMLP.v..:.uj..P.<..O.4.0..E@./.yg.YP..8.f.W.U3E...3#C.Yp.k..xU5.j4.XR..9......sn...F.>%..^?A...+9 .I.9..)..U.hP.z...8.."........Z...x..|.........B...;.3...g..p...b...m..(..b5.oo...j....]....o/.*v....{m.D.b.......z....^...Zz..(..s5...Dn...}u.9...+.6.|..E..P.p.4\..a..YH.Pk....TP.5G.(..N..#..u...D.
+  Payload (HEX): f0 a4 01 bb 04 ea a5 0e c9 00 00 00 01 08 ac af 1a 7e d1 c0 7f 37 00 00 44 d0 c3 d3 9c 28 1c d5 d8 56 1f 36 9e 0e d2 eb 01 53 dc db 65 ea 5a d7 0c bf c9 12 ee 17 12 a8 35 29 6a 9d 39 af 1e e8 25 cc d0 a9 a3 67 25 04 63 9c ad fe fd 83 97 bc 2f 20 13 49 b3 7c b4 c7 e8 07 51 e8 f0 da c1 a3 03 e4 5b 64 80 1d 44 08 83 5b ae 4f f1 ab 32 4c 00 1f 9a 1b 17 48 0c 56 8b 39 30 7c 08 86 16 73 aa a1 5b d1 35 c5 19 59 13 2a de 9e e4 12 2a 98 82 7b 18 09 75 46 16 96 e7 b9 fe 4f 93 3f 80 cf 6a e5 c9 62 50 30 7a f0 75 d3 7a d6 3b 9f ed 95 f7 2b 3a 18 f2 7e d5 1c e2 0f be 6c 32 66 78 a0 40 4c 74 07 9d a9 d8 b3 2a d5 54 10 5b 2f 4f 77 d3 f1 ae 47 f4 9d 04 c9 a1 96 70 79 c3 65 a1 55 05 c8 f1 db ef 79 4b 54 94 06 8d 9f a1 e6 68 50 cf 1a 9d ce 3b 7b 7b 15 93 7c 14 bd ee 39 ae 5b 0e 1e 03 eb 93 4b 99 24 b3 d3 ab 8e 9f d1 3b eb ae d0 be 34 7d 45 d0 31 55 b8 c9 4b 06 64 2a 82 3c 49 b2 13 5e 56 ee a7 57 f3 2b 95 c7 20 97 31 3d 5b 64 af e4 5f b1 fe e8 4b 5b ae 85 de 78 12 3b d9 13 40 b8 81 ab c6 cb 13 f9 aa 11 86 13 97 e2 36 93 76 63 dc 7a 12 1b b2 10 2e d5 7d 43 cb e7 bc fe 99 a6 21 0e 2a 34 9f 67 87 4b bd 09 8b 7d ec cc 68 5c e9 83 bd e7 cd 91 fe 21 59 64 d4 c8 9f 07 ff d0 12 78 68 96 dc b9 33 95 c8 c2 a8 e2 52 c5 0b 21 f6 94 a9 38 96 11 7e 51 64 70 f6 47 2b 85 da 67 d3 30 d4 04 4b 49 93 eb 66 87 24 85 bd 9a d1 3e a2 75 56 a7 4a 9a 4c 94 9d 38 25 54 68 3b 77 c4 38 fb 67 10 59 56 5b ba 0a 43 6a a3 fa a3 ac 09 04 22 3f 24 0e 7c bd aa 14 f0 9e 26 9e db 15 72 5d f6 7e af 1a c7 40 f2 da 8e e9 bf 73 63 e0 1b ed db 01 e7 6a fc bd a0 66 28 ee 3c 24 1e 58 37 55 45 af a4 89 8f 31 3c 0c 70 3f 27 e8 f2 d0 62 54 67 80 c5 eb d3 59 9a b4 89 b2 1b b4 a5 cd e2 1e 7b 62 29 cd ec c1 58 6a 26 27 3d 3e ad cb cd 9d e5 f3 0c d5 29 c4 e9 81 0c ae 8c d6 72 e4 e6 ca cb b2 5a 58 57 63 bc 17 5d 5d 90 b2 64 38 f2 33 66 85 c9 53 7f 77 b9 55 2a 3f b3 40 e8 60 af 7d f4 4a 03 a7 7e 87 43 86 4f e7 72 75 69 b7 69 a8 6f aa 47 b3 0f ad 8c 70 e2 f6 29 ed ec 79 1e 8f 30 b9 8c 91 e4 a9 ae a6 78 a0 54 ab bc 0b 7e e0 87 d6 fe 23 b3 10 db 97 3b 0a 27 9d b2 c8 37 d0 ef 78 4b c4 21 97 89 ff ca 05 61 c5 19 9e 07 12 63 7e ff 95 03 97 47 65 4a a4 4c 32 9d 5c 0e fe 5e e2 c7 17 94 d3 f5 6e 6e 65 49 dc 77 7d 6b 8a 4a 05 ae b1 e0 8a 8a 48 eb 6a 9f 97 e3 ef 74 12 07 d7 1c 6c 8f 86 24 e7 4a 8f ca b5 af 89 f1 d9 27 6a 44 02 58 7f 2b d3 14 ff d7 a5 8e fc b7 15 60 4c 6d c8 87 cc ba a3 88 3e df 5f b3 cb 5d e7 5a 87 2e e4 b8 8b 80 64 07 8a 7b 4e 9e 28 81 3a ce 15 38 70 8e ec b3 83 60 9f ae d6 c5 c6 84 a9 60 f2 d2 73 8f d9 b2 39 cb 65 a0 02 13 4d 73 8d ba 3f b1 8b bd 2c 7e f3 fc 2a de 32 37 70 e1 bc 89 d4 ea af 3f 16 bd 29 66 47 1e 4b 70 0b 2f 64 38 46 e1 5f 87 56 b4 a9 ed 9b 3d 62 68 be cb c8 c2 8a 20 b4 9f fe d4 72 88 ef 00 67 ef ff 12 5e f6 0a c0 a1 e6 d1 62 dd 9d 90 bf 66 01 79 f0 08 65 69 3d dd 54 a1 e3 f2 af ca 8f 71 ce 9b 91 63 bb bb 50 fe 85 e8 84 82 a7 76 d9 01 40 72 4d 4c 50 d7 76 9b a0 3a 0e 75 6a bf f5 50 13 3c 84 b9 4f fb 34 c4 30 13 f2 97 45 40 d7 9f 2f f0 79 67 18 59 50 a8 1d 38 90 66 b2 57 f3 55 33 45 91 a1 d6 33 23 43 07 59 70 ea 6b c5 c5 78 55 35 e2 b2 97 6a 34 14 58 52 0f b7 39 f2 cf a3 91 a5 9c 8d 73 6e c1 ea b8 d6 99 46 e6 3e 25 16 16 5e 3f 41 de fa ff 2b 39 20 1b 49 ca 39 b0 8d 29 ac a2 55 14 68 50 8c 7a f7 0e a1 38 95 ef 9b 22 12 10 9a 0b ba 1e 95 86 5a f5 7f f8 78 8e 1d 7c 12 e7 80 c5 f7 8a b7 d5 fa fc 42 2e 8c 8f 3b 19 33 fb 9e 12 67 1e db 70 fc 06 cf b9 62 f4 a7 be 6d be 04 28 b8 83 62 35 80 6f 6f 9f a8 ca 6a 83 bb aa 14 5d f7 c8 e9 17 6f 2f 00 2a 76 13 a0 14 f6 7b 6d c3 99 44 89 62 f7 b4 1a f5 cc db 14 7a 97 b9 92 f1 5e 16 8c a7 5a 7a d8 b2 1e 28 17 f7 73 35 b8 fe cd 44 6e f5 e2 e7 7d 75 10 39 cf 0e 8a 2b 84 36 15 7c e3 82 1b 45 17 85 50 be 70 0f 34 5c 10 96 61 b1 e9 b4 59 48 1a 50 6b f7 81 f7 7f 54 50 ec 83 35 47 f1 28 87 06 4e f5 1c 23 ab 99 75 a6 04 e9 44 17
+
+Packet 47:
+  Time: 2025-07-04 20:40:36.153
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 8.0.8.0
+  Length: 61 bytes
+  Ports: 61539 -> 53
+  Payload Length: 41 bytes
+  Payload (ASCII): .c.5.)..e............www.gstatic.com.....
+  Payload (HEX): f0 63 00 35 00 29 d2 dd 65 f2 01 00 00 01 00 00 00 00 00 00 03 77 77 77 07 67 73 74 61 74 69 63 03 63 6f 6d 00 00 01 00 01
+
+Packet 48:
+  Time: 2025-07-04 20:40:36.184
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 49:
+  Time: 2025-07-04 20:40:36.189
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 50:
+  Time: 2025-07-04 20:40:36.204
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 51:
+  Time: 2025-07-04 20:40:36.209
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 52:
+  Time: 2025-07-04 20:40:36.215
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 53:
+  Time: 2025-07-04 20:40:36.225
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 54:
+  Time: 2025-07-04 20:40:36.243
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 55:
+  Time: 2025-07-04 20:40:36.284
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 151 bytes
+  Ports: 53 -> 54968
+  Payload Length: 131 bytes
+  Payload (ASCII): .5...............cdn.honey.io..A...........,.Q.ns-cloud-a1.googledomains.com..cloud-dns-hostmaster.google.D......T`..........,
+  Payload (HEX): 00 35 d6 b8 00 83 c0 e7 f2 87 81 80 00 01 00 00 00 01 00 00 03 63 64 6e 05 68 6f 6e 65 79 02 69 6f 00 00 41 00 01 c0 10 00 06 00 01 00 00 01 2c 00 51 0b 6e 73 2d 63 6c 6f 75 64 2d 61 31 0d 67 6f 6f 67 6c 65 64 6f 6d 61 69 6e 73 03 63 6f 6d 00 14 63 6c 6f 75 64 2d 64 6e 73 2d 68 6f 73 74 6d 61 73 74 65 72 06 67 6f 6f 67 6c 65 c0 44 00 00 00 01 00 00 54 60 00 00 0e 10 00 03 f4 80 00 00 01 2c
+
+Packet 56:
+  Time: 2025-07-04 20:40:36.304
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 57:
+  Time: 2025-07-04 20:40:36.335
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 58:
+  Time: 2025-07-04 20:40:36.348
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 59:
+  Time: 2025-07-04 20:40:36.356
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 60:
+  Time: 2025-07-04 20:40:36.380
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 61:
+  Time: 2025-07-04 20:40:36.388
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 62:
+  Time: 2025-07-04 20:40:36.398
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 63:
+  Time: 2025-07-04 20:40:36.411
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 64:
+  Time: 2025-07-04 20:40:36.421
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.237.184
+  Destination: 224.0.0.251
+  Length: 69 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 49 bytes
+  Payload (ASCII): .....1...............ivins._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 31 95 c3 00 00 00 00 00 01 00 00 00 00 00 00 05 69 76 69 6e 73 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 80 01
+
+Packet 65:
+  Time: 2025-07-04 20:40:36.463
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 77 bytes
+  Ports: 53 -> 61539
+  Payload Length: 57 bytes
+  Payload (ASCII): .5.c.9.3e..........www.gstatic.com..............,.....C
+  Payload (HEX): 00 35 f0 63 00 39 e3 33 65 f2 81 80 00 01 00 01 00 00 00 00 03 77 77 77 07 67 73 74 61 74 69 63 03 63 6f 6d 00 00 01 00 01 c0 0c 00 01 00 01 00 00 01 2c 00 04 8e fa b6 43
+
+Packet 66:
+  Time: 2025-07-04 20:40:36.478
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 67:
+  Time: 2025-07-04 20:40:36.486
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 68:
+  Time: 2025-07-04 20:40:36.513
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 69:
+  Time: 2025-07-04 20:40:36.520
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 70:
+  Time: 2025-07-04 20:40:36.528
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 71:
+  Time: 2025-07-04 20:40:36.533
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 72:
+  Time: 2025-07-04 20:40:36.538
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 73:
+  Time: 2025-07-04 20:40:36.543
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 74:
+  Time: 2025-07-04 20:40:36.543
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 75:
+  Time: 2025-07-04 20:40:36.549
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 76:
+  Time: 2025-07-04 20:40:36.559
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 77:
+  Time: 2025-07-04 20:40:36.564
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 78:
+  Time: 2025-07-04 20:40:36.574
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.227.175
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 79:
+  Time: 2025-07-04 20:40:36.579
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.227.175
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 80:
+  Time: 2025-07-04 20:40:36.584
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 81:
+  Time: 2025-07-04 20:40:36.589
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 82:
+  Time: 2025-07-04 20:40:36.594
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 83:
+  Time: 2025-07-04 20:40:36.600
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 84:
+  Time: 2025-07-04 20:40:36.615
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 85:
+  Time: 2025-07-04 20:40:36.625
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 86:
+  Time: 2025-07-04 20:40:36.625
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 87:
+  Time: 2025-07-04 20:40:36.636
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 88:
+  Time: 2025-07-04 20:40:36.641
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 89:
+  Time: 2025-07-04 20:40:36.652
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 90:
+  Time: 2025-07-04 20:40:36.657
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 91:
+  Time: 2025-07-04 20:40:36.662
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 92:
+  Time: 2025-07-04 20:40:36.667
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 93:
+  Time: 2025-07-04 20:40:36.672
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 94:
+  Time: 2025-07-04 20:40:36.677
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 95:
+  Time: 2025-07-04 20:40:36.682
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 96:
+  Time: 2025-07-04 20:40:36.687
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 97:
+  Time: 2025-07-04 20:40:36.693
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 98:
+  Time: 2025-07-04 20:40:36.698
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 99:
+  Time: 2025-07-04 20:40:36.703
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 100:
+  Time: 2025-07-04 20:40:36.708
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 101:
+  Time: 2025-07-04 20:40:36.708
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 102:
+  Time: 2025-07-04 20:40:36.719
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 103:
+  Time: 2025-07-04 20:40:36.729
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 104:
+  Time: 2025-07-04 20:40:36.739
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 105:
+  Time: 2025-07-04 20:40:36.739
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 106:
+  Time: 2025-07-04 20:40:36.744
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 107:
+  Time: 2025-07-04 20:40:36.749
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 108:
+  Time: 2025-07-04 20:40:36.754
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 109:
+  Time: 2025-07-04 20:40:36.760
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.238.158
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 110:
+  Time: 2025-07-04 20:40:36.775
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 111:
+  Time: 2025-07-04 20:40:36.784
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 112:
+  Time: 2025-07-04 20:40:36.793
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 113:
+  Time: 2025-07-04 20:40:36.796
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 114:
+  Time: 2025-07-04 20:40:36.806
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 115:
+  Time: 2025-07-04 20:40:36.806
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 116:
+  Time: 2025-07-04 20:40:36.811
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 117:
+  Time: 2025-07-04 20:40:36.822
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 118:
+  Time: 2025-07-04 20:40:36.827
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 119:
+  Time: 2025-07-04 20:40:36.837
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 120:
+  Time: 2025-07-04 20:40:36.842
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 121:
+  Time: 2025-07-04 20:40:36.853
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 122:
+  Time: 2025-07-04 20:40:36.863
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 142.250.195.170
+  Length: 1278 bytes
+  Ports: 61604 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): ......4.........~...7..D.E+...a.#...&...3."."-........ok;$....YB..=.t.%.._!)S4B...3$.Tl...Q(....^....\.'B..L.:.J...n.]<.B...l.J..^.F...>F...@..l-....Y.:o..i1.T.....ci....l)r.d-L....X.._.....b...f.!.Q.e..B..khk.n..Q.....Xp0u{=...n...}..[V..:.n....2.]..u.....2U...s).....dEK[P..}.Z...+Y-..{h..bZ2u)$V....i..J..u......%......r.|<mK.U;P....A..>f..Y^r.p.I.....V.d}.....e...F.....a...V.F.29...\....O@ A.x..as.......F.;..g.<....)`...2.2....S7.0>g.".9`....U.<..|Hw...X.y..6.d.....IG...T.S..B.V..D.....SP.0.sl0h..vj..uv.#fB...3...r-...|..L.qy!.8Fi.....5...Gn..S.."D.Y..6u.G'i.8.@..N....P\....Xx.n...2....=.....gbJ..:.0`p..uJ_...f.......ut....p...:[..M....Bh.....f..G).)...h.. V.'....C.en......^.^....H.z.i;.3......).....M*..fGp`....m.u.XSda*.@GBl..o.H.w...[...6H.Q.\.t..&..:.9+....J<9<3v..-._-.n.f.....C.H.nf..y<..Jm....a..N....?V.h0?...|<N.?1v.]gN...])^...n&..Q.......,W.Y..<P.....=2...@q.3_.|xX.K.@U.2.iQ`..3......i~f|...\...b....[ .$.._l.Au......,<f...w.r..}..u4Xx...5/..g..3..Bzp.........3.g\.kR..nz'./.2M.>.h.z.W.......=`.Z...b.ww..,".M..)_.=.W....7yv.X......=.Z.M.>..8@T#......5.mM.....}......s.F. ." ..._|..@a<..h..v(..Q&.Ea........3...a4..mv...;..x.f..f...B..E-..TY.f..[.........6*`...
+  Payload (HEX): f0 a4 01 bb 04 ea ec 34 c0 00 00 00 01 08 ac af 1a 7e d1 c0 7f 37 00 00 44 d0 45 2b 83 8b 1f 61 db 23 f4 0c ee 9d 26 03 c5 13 33 f5 22 cf 22 2d d2 13 a3 98 0e f3 ce f6 6f 6b 3b 24 b4 b4 ed b2 59 42 ee fd 3d 1a 74 d8 25 de af f3 bd 5f 21 29 53 34 42 9f f8 a0 33 24 cc b2 54 6c e8 cf 00 51 28 13 db 14 b3 5e cd 93 2e 86 c6 5c a5 27 42 0a cd 4c d7 3a 17 4a ee 16 98 6e 82 5d 3c d1 42 fb c8 ef 6c 84 4a fb d8 5e db 46 f3 c8 c2 97 3e 46 b6 cd f4 40 91 a1 6c 2d e6 e7 8f fb e8 59 bf 3a 6f 97 f0 96 84 69 31 f5 54 90 ae 9b dc 04 63 69 84 06 84 a0 6c 29 72 e3 64 2d 4c d9 98 83 c7 8c 0d 58 07 08 5f 84 97 d4 a8 ad d8 62 0a 0c f6 66 91 21 18 51 94 65 e8 8e ba cd 42 87 10 6b 68 6b ef 89 6e 06 02 51 0d a5 03 1e ab 58 70 30 75 7b 3d c8 cf d0 6e 06 93 f1 7d 1c ab 5b 56 b0 a9 3a a6 6e 18 8e 83 f7 32 9f 5d e6 8f a3 ef 75 d4 cd a6 f3 80 0d b6 32 55 88 f6 97 73 29 bf b0 f6 96 9b 64 45 4b 5b 50 d6 f9 7d 9a 5a 08 ad c4 2b 59 2d f1 e2 bf a7 7b 68 92 b2 62 5a 32 75 29 24 56 96 c3 0b f4 69 dd cc 4a 86 aa 75 d4 09 d7 ff 98 9f 25 a2 80 d1 ed ff 87 72 99 7c 3c 6d 4b a1 55 3b 50 b7 ad f4 e0 41 f7 a4 3e 66 0a 08 59 5e 72 82 70 15 49 15 c7 c4 c1 e3 56 a8 64 7d e4 19 06 0d fe 65 be a4 cb 46 1b ac f3 f1 e3 61 91 7f bc 56 ae 46 d9 32 39 94 d0 da bd 5c da a5 ed 18 cd 4f 40 20 41 ad 78 d9 c2 61 73 0a 86 ee 88 00 8e 06 1a 46 d3 95 3b 09 bb 67 84 3c c7 dc c9 c3 29 60 f6 a1 a5 32 00 32 ac ab 85 c2 90 53 37 8e 30 3e 67 ac 22 e6 39 60 97 bc 15 aa 55 cc 3c b4 ee 95 7c 48 77 e1 c3 9b 0e 58 9f 79 a0 87 36 ba 64 93 b3 d0 a9 1e 96 49 47 d6 ac ba ae 54 9c 53 8d fa 42 c2 56 d3 aa c6 44 ae e0 1f f7 f1 53 50 b7 30 b7 73 6c 30 68 0a 8c 76 6a e6 7f 75 76 d4 23 66 42 ce b8 aa e9 33 ae 02 de 72 2d 0b a1 14 7c 82 09 4c bb 71 79 21 cb 38 46 69 cd c1 8c cc c5 35 8f 98 0d 47 6e 94 dd 53 c6 db 22 44 f4 59 94 91 36 75 03 47 27 69 fb 38 81 40 f6 b4 4e 04 1c ab d7 9f 50 5c c3 05 dd ad e9 58 78 bd 6e 09 aa f3 9a 32 b1 8a 04 9a 3d f6 b3 15 bc b2 67 62 4a e4 d3 3a c4 30 60 70 2e e3 75 4a 5f d4 e3 0b 66 c5 b9 15 dd ff c3 17 83 75 74 84 11 81 e6 70 ca cc f3 3a 5b 13 8b 4d b7 90 c7 b4 8f 42 68 8b 8a cf 06 04 66 af bb 47 29 ee 29 a1 a1 ef 68 f9 0a 20 56 d1 b7 27 c0 c7 e0 9b 43 0f 65 6e 80 e7 9e 81 e1 ea 12 a6 5e e3 5e 98 96 80 c0 48 f4 7a e5 69 3b 8e 33 10 17 a4 04 a2 f3 29 aa cd 9c 8f fb ac 4d 2a e3 95 f2 9a 66 47 70 60 1f 0e ed 9e 8d 07 6d 08 75 98 58 53 64 61 2a ec 40 47 42 6c b1 9e 6f 08 48 f9 77 1c 81 04 5b df 98 1a 7f 36 48 cb 51 81 5c f3 74 db ca 26 11 02 3a c4 39 2b bd 9b bc e6 4a 3c 39 3c 33 76 e3 ed 2d 7f 5f 2d e0 6e 8b 66 1b d7 17 8d 9d 43 d2 48 a6 6e 66 b7 10 79 3c ae f2 4a 6d b2 b5 99 e7 61 ad cb ad 4e f1 c7 89 b2 bd 3f 56 c0 68 30 3f be d5 1f 7c 3c 4e d5 b8 3f 31 76 f3 5d 67 4e f2 ee d7 5d 29 5e dc e2 ee 6e 26 cb 1c 51 fc bd 93 87 ce ea f8 2c 57 a1 59 84 80 3c 50 cb 0c b9 15 d6 3d 32 ca e6 81 bc a2 40 71 e7 33 5f d5 7c 78 58 90 4b e2 b3 40 55 ad 32 f4 69 51 60 17 9d 33 c9 98 b1 fe be a8 c1 69 7e 66 7c cb bb 09 b5 5c 8b b1 bd 62 bf d8 b9 ed 01 5b 20 b2 24 03 f0 5f 6c 15 41 75 b3 dd c7 c3 d6 1b 2c 3c 66 85 09 b8 77 e1 72 01 ac 7d de 18 75 34 58 78 b2 ec d3 35 2f 15 ed 67 10 f8 33 9b 1f 42 7a 70 bb e7 c6 bf ee bb 94 19 b4 e6 95 86 fd 96 33 a1 67 5c 12 6b 52 d5 f1 84 6e 7a 27 b8 2f dd 32 4d b7 3e ea a5 b6 68 f6 7a 1e 57 1a b7 ac 09 e4 0b 1b 3d 60 ea 5a e5 84 0d 1b 62 9c 77 77 19 bd 2c 22 bb 4d 1c 17 29 5f 85 3d 0d 57 1b f4 c5 ef ab 37 79 76 85 58 a3 fb ca fd be f2 3d 0c 5a ff 4d 91 3e 99 c2 38 40 54 23 b3 86 90 1d e1 09 35 e5 6d 4d e2 ea 9f cd d8 0f 7d fa bc 80 a5 a6 82 73 f6 46 da 20 81 22 20 cc c8 c9 a9 5f 7c 96 c3 40 61 3c ce d2 68 f1 e6 76 28 ae ac 51 26 1f 45 61 e9 1d ca 16 86 a4 ce 1b 33 ac a1 cb 61 34 ba 10 6d 76 fa d0 a5 d5 3b ca 9c a3 78 e0 ae 66 cf f8 66 b8 ad 81 42 f6 d2 45 2d 93 af 54 59 b6 66 e4 ca 5b a5 9d d4 85 08 12 b6 0a 8c 9a 36 2a 60 04 ee 98 96 1d
+
+Packet 123:
+  Time: 2025-07-04 20:40:36.910
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 124:
+  Time: 2025-07-04 20:40:36.921
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 125:
+  Time: 2025-07-04 20:40:36.983
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 126:
+  Time: 2025-07-04 20:40:36.993
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 127:
+  Time: 2025-07-04 20:40:36.998
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 128:
+  Time: 2025-07-04 20:40:37.004
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 129:
+  Time: 2025-07-04 20:40:37.009
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 130:
+  Time: 2025-07-04 20:40:37.030
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 131:
+  Time: 2025-07-04 20:40:37.045
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 132:
+  Time: 2025-07-04 20:40:37.050
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 162.159.61.3
+  Length: 1278 bytes
+  Ports: 57624 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): ................hB.....D...bx_z.......d...u...+a#...e.....P8.4a$.....n...,..d=..F...s..;..J]t.A....@M.(.ar..]dM.....(...(..8C..ZB..^X......F.x.DBn...E..Dd...!y.%..<..>..A..pv...g..}.....v.."d.....1=.7Pqt5tJ...b.#..`.1./..&...mp.^A.2.f..^..4..|......GPt.'6o....<P%..e..zB.{..V..E..5c.CT..>.cu..'Q..&.Y\O.FG$8O..lS;J ._...%.!.j..J..k.....Q.v"..u..:..).%.H.O...al<_.')^....|b..{B.Y......a2..x..1..F$....3..+g.&..uX..%.....T.%.F...V$D2...Y.t.?.a..f?....f,5.FY.....u.i5...9..]..P.. ...{...e..pW.8>...1.}"n~:...H....)Dj..ib7.W...R....v..4..}.....Q...../TmR6.....5Y^...oS....d....rhQ...$-._..P.....<..O.U.........,..>]...G.N......\`...../.[.z....%.N...2......5....wN.}6......~:.x<....*.&O.u<-....zQd.....V..6r..M.#t...?..Y.*.*..^W....t.9`?<1..m...C?....f/^H....;.`u..f..Rk...x.[F...Z..z..~.T.}J..@..f..4w.lx.A.....}q5.).b...[.G.s...$...........;...l....8........&.R.:x..3~~...mW.Vs%r..<H........E.j.......z..k.%"`.C..(....@&..d.42...,...@.m5...TJq.t...DP@..(......A.5.e......M........_......f..g.q.j0P..z....35}6i#...*.......kBk.3..[.1f......Ikm.<0X3:i.P..&...$......o....Q;..q>.B.gq./....."....b.....H..Yo....X...Qc....#....>y......<>--....k....i..d.IJ.Y..Y.......A..p....m...V8cp...."c.
+  Payload (HEX): e1 18 01 bb 04 ea 0e b7 c1 00 00 00 01 08 1c ef 68 42 e9 96 06 c9 00 00 44 d0 d5 da 62 78 5f 7a b9 07 d4 bb a9 10 bc e1 64 8f 9e a5 75 08 d6 92 e6 9f 9b 2b 61 23 b2 87 c2 b0 65 87 9e 2e a5 a5 50 38 7f 34 61 24 f9 de 0f c6 cf b6 6e 9a fb bc 2c bf f3 64 3d ea db b1 46 ec 2e c5 73 b7 05 3b 00 ae 4a 5d 74 b9 41 c4 c8 e8 bc b2 cd aa 40 4d d3 28 ee 61 72 1f bf 5d 64 4d c3 ff bb 83 e1 28 00 a5 95 28 2e d7 38 43 c2 d7 89 5a 42 da a6 81 5e 58 fa a6 d6 d1 9b 94 fd 46 bb 78 e9 8a 98 44 42 6e 1e 8c ea 45 9f dc 44 64 ef 03 c4 94 21 79 af 25 a9 16 3c b8 e9 3e e0 06 41 03 9f 70 76 ea c7 1c 67 c7 90 a8 7d fc c7 11 93 99 76 a2 c8 22 64 04 81 a7 b1 f6 31 3d 05 37 50 71 74 35 74 4a 94 e1 d9 62 2e 23 db a5 9e 60 a6 31 16 2f fd 88 26 af a6 be 6d 70 14 5e 41 df 32 e6 66 90 ed 5e ae cd 34 f1 0c 7c a9 c2 04 02 d7 f2 9a 47 50 74 e2 27 36 6f fa 10 dc e6 3c 50 25 c3 ec 65 bd ac 7a 42 f7 7b fc 04 56 e6 c5 45 16 02 35 63 f4 43 54 9c b8 3e b4 63 75 ae 89 27 51 e8 f7 26 b7 59 5c 4f a6 46 47 24 38 4f b9 dd 6c 53 3b 4a 20 c4 8a 5f 99 d1 9e 16 25 92 21 80 6a 84 8c 4a 13 ef 6b dc c4 fa ac e7 51 03 76 22 c5 e5 75 b6 ec 3a ad c2 8b 29 b7 25 89 48 a9 4f 92 b8 93 61 6c 3c 5f e7 27 29 5e 2e e8 90 0b fb 7c 62 83 f5 7b 42 96 59 d8 c1 de c0 ab 9b 61 32 9e 9e 78 9c 1f 31 9c d1 46 24 fb 0d ca 81 f1 bd 33 0b e9 2b 67 01 26 c5 90 d1 75 58 81 89 25 fa ae 01 03 ee 54 9c 25 04 46 be f9 97 56 24 44 32 0b b6 c1 59 d2 74 e4 3f fe 61 b5 95 66 3f a9 ba 03 c6 a5 66 2c 35 09 46 59 e4 0e a6 0a 01 75 fa 69 35 aa 8e e6 39 04 8e 5d 8e f9 50 b8 eb 20 ce 01 e0 7b e8 11 f8 65 02 f0 a8 a0 70 57 bd 38 3e 98 c7 ef 31 10 7d 22 6e 7e 3a cc aa af 16 48 0e cb 1f 17 29 44 6a e6 bc 9e ea 69 62 37 bf 57 00 b8 ef 52 bb 10 e9 f7 76 09 d4 34 b8 ff 7d 08 b0 92 a6 de 8f 51 84 ad e0 e6 82 e4 2f 54 6d 52 36 f4 14 b8 0d b3 35 59 5e cd 97 c3 87 fa 6f 53 b9 ee 0f c3 64 95 1e 03 08 72 68 51 03 8b d5 24 2d c4 5f e3 ed 50 a5 93 98 b4 de 3c f4 13 4f 8f 55 e3 b5 83 bf fc d0 d2 a4 83 a2 9b ec 87 b9 2c 80 e2 3e 5d 0c d1 0a 47 85 4e c7 e2 c7 b7 dd de d3 85 5c 60 b6 90 af e4 c8 b7 2f e9 5b 1f 7a 02 b1 f6 fa 25 02 4e af 12 f7 32 cb d0 15 fd 1b d2 35 c4 8d 82 b5 d5 77 4e b0 7d 36 95 e0 9a 86 ac be 7e 3a d4 86 78 3c d8 17 ce 97 d9 2a 00 26 4f b6 75 3c 2d a1 a3 13 f0 7a 51 64 bf d8 01 8e af 56 fb f4 36 72 8e 00 4d 9c 23 74 d9 b2 0c 88 3f 13 8f 59 c3 8d 2a 07 2a a3 f4 5e 57 86 90 84 c4 74 87 39 60 3f 3c 31 e3 86 d8 6d f6 0e 9f 43 3f be c4 86 d5 c4 66 2f 5e 48 ab a4 cf 09 3b d0 60 75 c1 b1 66 d3 d2 52 6b fa 8c f3 78 a9 5b 46 d2 f1 e3 5a 88 1f 7a d4 1b 7e d2 54 91 7d 4a 13 8e 40 fe f7 66 fc 96 34 77 af 6c 78 91 41 aa c0 1c b4 83 7d 71 35 aa 29 c5 62 9b a8 9a 5b a1 47 9e 73 d4 de 18 24 f2 82 b2 85 bc bb d3 b8 7f e7 1e f8 8a f8 ed 3b 9c 1c d0 6c ad a6 c3 8e 83 38 cf c2 1a 0a 13 a6 a2 0c 26 99 52 16 3a 78 83 ed 33 7e 7e cb 16 0b 6d 57 0e 56 73 25 72 db 10 3c 48 89 a3 15 e0 9e d7 19 b9 45 03 6a cd c7 ae c0 18 fd d9 d0 7a b7 a7 6b d0 9e 25 22 60 b3 43 8d 8b 28 c6 14 02 b4 40 26 9d ab 64 ce 34 32 fb d9 e3 2c 98 8c c1 40 a6 6d 35 b3 98 e3 93 54 4a 71 e7 b9 74 9f af 17 44 50 40 ee 13 28 ad 19 9e b0 b2 91 41 07 35 c2 65 9f 07 b3 af 08 d5 8b 4d dd e8 8a d1 dd e7 99 c2 b3 0f 1a 5f c1 cb 1d 90 d0 9d ce 66 db d3 87 67 98 71 e9 6a 30 50 a6 a8 7a 85 ef 19 fc 33 35 7d 36 69 23 88 bd f5 2a 0d 1a b3 df ef ce a0 dc 83 6b 42 6b 01 33 0c ba 5b a7 31 66 e9 fc 8e 14 ac 18 49 6b 6d c2 af 3c 30 58 33 3a 69 bd 50 95 a0 26 90 93 e5 24 ca 0d e0 98 df 04 6f f5 e6 0e f2 51 3b de 1e 71 3e c9 42 ce a1 67 71 03 2f c2 9d 92 c4 0c b7 22 a6 ab 1d ef 62 95 bd bf ab 9c 48 b7 c4 aa 59 6f a4 0f ce e2 58 bb 80 eb 51 63 af 1d 1b 82 23 0d 03 db d6 aa 3e 79 1a 19 d9 c1 fc ff 3c 3e 2d 2d 8e d2 b8 b8 db 88 6b 9f c2 a2 ba 8a 69 df 0f 64 db 49 4a 9d 59 d4 04 59 ed a4 e7 06 0a bf cf 41 94 bf 70 ff 1f df cc 6d c1 fe e8 56 38 63 70 10 ff 04 ba 22 63 fb
+
+Packet 133:
+  Time: 2025-07-04 20:40:37.084
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 172.64.41.3
+  Length: 1278 bytes
+  Ports: 62252 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): .,....D>......dU.XY'....D..G..f.......|..~.w.T7.,....O.H.....fD.e.....V....l].`n.NvL....y.jl.FZ.SI.....+!.p..a..V...P........B......@...{.6B....'...F.83l.9.`.BK..~....d./...d.`...}~.L....~.......$..b...#o.r.7....^..~R2I.X...#&..$UZY5t.^`.nz(_..z.Y.SM....{Jqj....[I.......L......U.>.P.........#..G...}.......d.K..qC.P...&...e...<.0G.v...&Y.?...;...Q..(........_........-.t..0.m...E.C0....=.?d.)...E........=....AI..H......x.....CO}*Z.C.L.l.YU.I..lc.j'%.wz*|...2..(.%<o.z.8.'.k........".7u.7...7..~..M.E..jF....F'.-....&.s...:..3.a}FDM3.Qz. ...:.....;.x..a.n...x^?.W.d.pJ.W....$Dl.<m.......C.F ....i..N...e\.s.v.>.0.F.T....g.$..C..\/.g...'..&{...K@....c...e1......L.....@..p...!AW".....?..@g.=..K'M@.&^...n_7.V.....I:..>..0o.P.hr..n.k.i..l.e-...m!".....!<gO(..x..H.u...b..0....~.-E...sl9...F..ca@>..B7Y.......I^.D....E...rJ...."9.&..8..O.s....$.Z...Y...+._.N.u.....I...%\w.=...^g...x..!.=..p.p....L..fD.;...`.V..x.%........~.c.....X.F......]....Q..X.}...9'..eY..#.a.}t,f..vW.]5./.ec.D.Iy.%x..d".3.m...I..l.....U9%.&).'.j.cG.j....E..U...n.k....A.}.R..........p...k..^K...I<..!...x..c.ub..DO.u.F...<.....K.~I.I...s~....4..M.8Q..w...r;5U.vM.l..sO...%..-5..&F.|.]?....L..X?[.A\.|......Oi.`....G#.T.W.7#.xg....
+  Payload (HEX): f3 2c 01 bb 04 ea 44 3e c0 00 00 00 01 08 64 55 09 58 59 27 83 a3 00 00 44 d0 e4 47 bb b2 66 a2 a8 b5 b9 b8 e9 b1 ea 7c 04 8a 7e 05 77 a3 54 37 1a 2c 17 b0 c3 ef 4f b7 48 8e a3 2e 0d 9f 66 44 97 65 b4 ab cc 0c 0e 56 be 08 01 b1 6c 5d 8a 60 6e 10 4e 76 4c ec f6 89 8d 79 cc 6a 6c d0 a3 46 5a e9 53 49 95 19 85 ea be 9f cb 2b 21 d8 70 9d c3 61 a2 f8 56 7f 87 d1 50 d4 ff d4 0a 1c fb 9f af 42 b4 1e b6 f2 dc 1d 40 c6 cd 1d 7b c3 36 42 0f d5 f3 1d 27 dd f9 07 46 f6 38 33 6c a4 39 a7 60 96 42 4b bf b8 7e 2e b3 1b e8 64 0f 2f a4 ed b6 64 ed 60 85 81 e3 7d 7e 88 4c a7 06 c4 93 c2 7e 8f 8b 1a db 16 da 1b 24 ad ae 62 da e0 1e 23 6f e7 b1 72 fe 37 03 9d 06 c9 5e c9 f4 8c 7e 52 32 49 d6 58 03 19 ea be 23 26 b3 c7 88 24 55 5a 59 35 74 95 5e 60 bd 6e 7a 28 5f da c9 7a d1 59 b7 53 4d ba cb 12 1b 7b 4a 71 6a b4 a3 14 19 5b 49 a4 e1 88 80 0e ac c4 0a be 4c a2 a5 ac 18 c8 0e 55 b2 3e a9 50 85 d5 d0 a9 00 ef 01 cf fe eb 23 84 8f 47 d2 c7 a3 d3 7d be b4 0b c9 cb 8f 0c 03 64 8c 4b 18 04 71 43 e1 50 cd b9 a9 16 26 fb 1c f9 65 dc d8 01 3c 12 30 47 02 76 96 ea dd 26 59 d6 8f 3f d4 b4 00 ee 3b 1c f6 7f 51 84 1a 28 ae fc 96 fe cf a2 dd fe 0c 5f 1c be 0b 1c 97 cd e4 0a 2d 0f 74 02 cc 30 91 6d ad 8e c3 45 e5 43 30 ce 92 99 9e 1f 3d 00 3f 64 7f 29 1d c8 d4 45 f5 1e be 1f f0 e2 9f 14 ec 87 3d 0c de a2 ba 96 41 49 88 1e 48 a1 09 a6 b6 f8 d9 78 9c 7f 08 88 97 43 4f 7d 2a 5a d7 43 e3 4c 17 6c fd 59 55 02 49 15 c5 83 6c 63 b2 6a 27 25 07 77 7a 2a 7c b2 9f ca 32 88 ae 28 0a 25 3c 6f 82 7a f2 38 a5 27 80 6b 05 e0 ee 92 ca f7 c3 fc b6 22 a7 37 75 8c 37 08 2e 0a 37 07 8b 7e 8f 06 4d ae 45 a8 95 6a 46 d8 a9 05 0e d6 46 27 ad 2d af b9 f9 a6 26 84 73 a1 da ce 3a 1a 93 33 df 61 7d 46 44 4d 33 c9 51 7a a9 20 9f 18 9f 3a cb 1a 83 aa 81 3b 88 78 80 8f 61 0b 6e 97 90 dc 78 5e 3f 9d 57 ce 64 ba 70 4a f5 57 bc a4 12 e5 24 44 6c e5 3c 6d 96 ac be 92 de 9f 8d 0b 43 03 46 20 be 1f 81 92 69 d6 db 4e 19 80 95 65 5c 9e 73 07 76 bc 3e b2 30 99 46 ce 54 dc de 8e 16 ed 67 1d 24 e8 97 ee 43 cf 8a 1f 5c 2f e1 67 d6 ff e6 87 27 f0 8f 26 7b 13 95 83 4b 40 e9 11 12 84 63 aa 15 14 65 31 d7 e9 1f 8e dc e5 4c 14 be ee fe 02 40 a2 e0 70 b6 c8 05 21 41 57 22 1a cd c9 05 ce 3f 0b d5 40 67 bb 3d c1 c5 4b 27 4d 40 f0 a7 26 5e db 88 82 08 6e 5f 37 0b 56 c9 f0 9a c9 c0 09 49 3a b8 dd 3e f6 07 30 6f 80 50 14 68 72 17 0e 6e b1 6b 13 69 81 1e 6c f0 65 2d c1 a6 fc 6d 21 22 13 fe b3 ad 7f 21 3c 67 4f 28 e8 b8 d3 78 f6 c1 48 a5 75 c9 e0 ca a4 62 c4 f2 30 b1 d2 01 93 7e 7f 2d 45 d9 1d 0c 73 6c 39 b0 aa b5 46 d8 c7 63 61 40 3e bd d0 42 37 59 98 a7 b7 a0 2e 89 d3 49 5e da 44 05 fc f0 f6 45 88 82 f3 72 4a ba 91 95 c3 98 22 39 bf 26 ee ee 99 81 38 88 82 4f d7 73 c7 d7 d5 ee 9d 24 ef bc 5a 9b 0f b3 59 dc 0b 00 2b c5 b5 5f d0 4e da 75 90 09 86 eb 94 04 49 d6 c9 94 00 25 5c 77 a1 3d 9c f5 e3 5e 67 a2 1c af 78 e3 e9 96 21 db 80 3d 85 e9 70 f7 70 e4 f6 bf d7 4c bd f9 66 44 b4 3b dd cd 11 60 b9 56 88 1b 78 94 25 c2 c0 94 81 11 1c 85 bf 7e ed 63 f8 9d df 14 90 58 ff 46 00 e1 1a ba bc 16 5d 1b c3 ef e6 51 1f 9c 58 8c 7d a3 0c e7 39 27 92 2e 65 59 f5 c1 23 09 61 88 7d 74 2c 66 b8 81 76 57 95 5d 35 a4 2f b6 65 63 1f 44 7f 49 79 fc 25 78 0f 7f 64 22 e1 33 12 6d a4 c9 cd 49 e5 e6 6c dd e3 d3 83 fb c3 55 39 25 f1 8a 26 29 b3 27 8b 6a 1c 63 47 e9 6a e6 eb eb df 45 c5 84 e9 55 16 18 09 6e 89 6b 1c 0b 86 b6 41 92 7d 1f 52 db d2 d8 9c ff 8f dc 13 b6 f4 dc 8e 70 1a 0a d0 6b 02 16 5e 4b f4 90 1d 49 3c ee d2 21 8b b1 d3 78 c2 a9 d9 63 85 75 62 c0 c9 ba 44 4f a9 75 c8 46 aa 85 c1 3c d4 04 b4 a0 88 4b 1e 7e 49 18 49 12 e4 c7 73 7e bd b3 b0 c3 34 9b ef 4d d9 38 51 dd ec 77 bb 8c 97 72 3b 35 55 1b 76 4d 9c 6c ae 17 73 4f ea 1b d1 25 95 b1 2d 35 f4 a5 26 46 9f 7c e6 a7 83 5d 3f 9d 1d 13 d4 4c ed d4 58 3f 5b de 41 5c 9e 7c 96 9d d2 eb e1 02 4f 69 df 60 fb c1 08 f1 47 23 83 54 af 57 c8 37 23 8e 78 67 15 08 d9 85 d5
+
+Packet 134:
+  Time: 2025-07-04 20:40:37.120
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.234.51
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 135:
+  Time: 2025-07-04 20:40:37.133
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 136:
+  Time: 2025-07-04 20:40:37.139
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 137:
+  Time: 2025-07-04 20:40:37.144
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 138:
+  Time: 2025-07-04 20:40:37.154
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.194
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 139:
+  Time: 2025-07-04 20:40:37.159
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.208.193
+  Destination: 224.0.0.1
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): .d.....
+  Payload (HEX): 11 64 ee 9b 00 00 00 00
+
+Packet 140:
+  Time: 2025-07-04 20:40:37.159
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.237.77
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 141:
+  Time: 2025-07-04 20:40:37.166
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.230.230
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 142:
+  Time: 2025-07-04 20:40:37.169
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.228.245
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 143:
+  Time: 2025-07-04 20:40:37.211
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 78 bytes
+  Ports: 51379 -> 53
+  Payload Length: 58 bytes
+  Payload (ASCII): ..5.:.Y.............mobile.events.data.microsoft.com.....
+  Payload (HEX): c8 b3 00 35 00 3a c9 59 9b cd 01 00 00 01 00 00 00 00 00 00 06 6d 6f 62 69 6c 65 06 65 76 65 6e 74 73 04 64 61 74 61 09 6d 69 63 72 6f 73 6f 66 74 03 63 6f 6d 00 00 01 00 01
+
+Packet 144:
+  Time: 2025-07-04 20:40:37.294
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.229.170
+  Destination: 239.255.255.250
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 fa 04 ef ff ff fa
+
+Packet 145:
+  Time: 2025-07-04 20:40:37.311
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 198 bytes
+  Ports: 53 -> 51379
+  Payload Length: 178 bytes
+  Payload (ASCII): .5.................mobile.events.data.microsoft.com..............x.'.mobile.events.data.trafficmanager.net..>.......<.).onedscolprdwus21.westus.cloudapp.azure.).q..............
+  Payload (HEX): 00 35 c8 b3 00 b2 fd fa 9b cd 81 80 00 01 00 03 00 00 00 00 06 6d 6f 62 69 6c 65 06 65 76 65 6e 74 73 04 64 61 74 61 09 6d 69 63 72 6f 73 6f 66 74 03 63 6f 6d 00 00 01 00 01 c0 0c 00 05 00 01 00 00 00 78 00 27 06 6d 6f 62 69 6c 65 06 65 76 65 6e 74 73 04 64 61 74 61 0e 74 72 61 66 66 69 63 6d 61 6e 61 67 65 72 03 6e 65 74 00 c0 3e 00 05 00 01 00 00 00 3c 00 29 10 6f 6e 65 64 73 63 6f 6c 70 72 64 77 75 73 32 31 06 77 65 73 74 75 73 08 63 6c 6f 75 64 61 70 70 05 61 7a 75 72 65 c0 29 c0 71 00 01 00 01 00 00 00 0a 00 04 14 bd ad 1b
+
+Packet 146:
+  Time: 2025-07-04 20:40:37.324
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 172.64.41.3
+  Length: 1278 bytes
+  Ports: 57711 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): .o............wH....;3..D...)..I.RM.'..Qo.R.3..<.a#..@..>..bn:......`.E.d.^AE....+....,O...ec|...FT0F.....`d1...e.)rz..4......m.D`.n..u}..?f......:...{...#.P....J.....P.L&.z........N6..8.JnZ`g5.....K.`._...N...F....^~..f`...&T}..x..!.w...]<..).g...R.DM.Q...g+.....C.O..v-{...KDF..?......._A7..t.o.....~.}....P.y..%..C........o............`'qI.;X..Q..T.......D2..._...di....n..g...!.@.mhZ...%.....n.....1\K...../..8|U...$..N..fu....G..(D2.^...D...N1...2....j..L...a.....>Y.TM9#.;G.>;F.s.)...=..HI..Q......X...Mm.."l`s.p..9n.}......@....Si\,B.Z...j........c.4_..8.}..P...=..V..{.e.2.j.\.......^Th......~..`pb...@...$=.%..+!./..Ft+..>|........(...\>...2..Y.Y..L.6.6...mc'2.J;.....D.]......l.t\O\...,..O+...r.-X|[..x".....w..Vm......9.... Q.QN_.q...12.&.2HpDK.2.....m^M.....)...o2..i6..T..h.QI.....@.<..F.d.....!...R...b.....|<..8......J.5;..W..2076......z.+.N....W...wAQ.~Y..+...:g.7.G.,..~.mzS....@S..pS.....J.....YU\L).Y..p..LM#...O<Ao...,.2R)........g.....;..A.%t.P..p..P.....M...I:.L...'...z..2.o6..:/m....u#..-.@...x....%.8...I&o.GO_...v.)...":..[....'..S..?.>...H.,N..}..f.~R.......Rz]B..y....",|7(...........I.w).S......J....b..A.t...^4D............%..5Y....c..S.[.W.+...Qq ?.y"./2*E...\.\..
+  Payload (HEX): e1 6f 01 bb 04 ea 17 95 ca 00 00 00 01 08 77 48 8d d5 c0 b4 3b 33 00 00 44 d0 cf eb 29 b6 1d 49 cc 52 4d e7 27 d9 1d 51 6f 12 52 87 33 ab ed 3c 9d 61 23 9c c4 40 01 09 3e 14 85 62 6e 3a b5 0c d0 1d 02 8c 60 e0 45 81 64 02 5e 41 45 85 ed 85 85 03 b8 2b ed 04 08 d1 2c 4f b7 16 d2 65 63 7c ac 09 8b 46 54 30 46 8d d0 cb 9d e2 c8 97 60 64 31 fc 85 b2 65 e3 ac 29 72 7a 97 d2 92 34 d0 95 83 97 f4 95 d3 6d b1 44 60 ae 6e a4 ee 75 7d 8e c6 3f 66 a0 eb d5 d9 ae 94 15 3a 00 b6 ad 7b 0a 0b 0a 23 e7 50 9d 0b e4 02 4a ad be a0 b8 e5 50 0a 4c 26 9e 7a fd c5 82 83 16 f3 c3 01 95 4e 36 1e e8 38 a7 4a 6e 5a 60 67 35 ba ed d0 d3 02 4b d7 87 60 7f 5f 97 b2 aa 4e 02 c7 06 46 a0 8a 06 92 5e 7e eb 1c 66 60 0d f0 0b 26 54 7d 96 db 78 1b 9e 21 f2 77 e7 ef a9 d5 5d 3c 1b 84 29 0c 67 b6 a3 93 52 f5 44 4d 97 51 8f 09 e2 89 67 2b ea d2 f4 0a de 43 bd 4f 05 02 76 2d 7b b9 f1 8f e5 4b 44 46 ba 16 3f e9 0e a4 aa 9b ae ed 5f 41 37 a6 8d 74 d8 b9 6f 91 90 84 87 f0 7e 81 7d b0 e8 04 f6 50 8e 79 93 e6 93 25 88 da 43 8b ef d1 17 1c 94 ee 07 6f 18 e0 9b 95 da bb d4 0e ed 9f bc 14 f5 84 dc 60 27 71 49 b2 3b 58 b8 df 51 8b f9 54 8a 07 fb c5 e6 c6 f3 44 32 04 c7 02 5f 00 1d f1 ba 64 69 b9 c3 95 8e e4 6e d9 da 67 9e ab c6 21 0f 40 c5 6d 68 5a be ce 80 a2 25 05 ae 06 2e c6 6e 0e 2e f5 de fb 31 5c 4b 87 fe a0 8a cb 94 2f 99 b9 38 7c 55 93 1c e0 bb 24 97 f5 4e c8 0d 66 75 b6 b0 ab cc 47 14 ef 28 44 32 af 5e a1 ba bb 44 e6 12 cf 4e 31 0d c6 f4 32 b2 f0 bb d0 ef 6a df fe 4c 0c 0c 85 61 d6 c2 04 ae e4 ba 3e 59 d0 54 4d 39 23 d4 3b 47 bf 3e 3b 46 8a 73 c3 29 c6 ba af 7f 3d c3 e2 48 49 94 f0 51 ab 82 fd 0e d5 e6 58 16 df f1 85 4d 6d 8a e9 22 6c 60 73 06 70 ee df 39 6e 97 7d f6 a7 18 f2 1c ad 40 cd b9 e5 83 01 da 53 69 5c 2c 42 96 5a 0a e7 dd 6a 2e eb 83 e9 cc 2e 14 eb c8 63 bb 34 5f 09 c4 38 13 7d c7 7f 50 c6 da 99 a7 3d 94 1e 56 81 1c 7b cc 65 bc 32 94 6a f4 5c 14 1d c4 15 81 10 b5 5e 54 68 d3 b3 fe d2 14 cc a8 b7 7e c1 da 60 70 62 ac 1f d9 40 1a 8c 9d 24 3d 06 25 8f ad 2b 21 b3 2f 99 c8 46 74 2b aa a4 3e 7c 88 03 ad 89 02 e2 e8 94 a4 ad 28 e7 d4 ab 03 5c 3e e0 9a e6 98 32 0f d3 59 c2 94 59 2e cf 4c 19 36 1f 36 16 d1 dd b0 6d 63 27 32 13 4a 3b d9 06 86 10 a1 44 f9 5d 11 a5 9d c1 e9 d2 6c 92 74 5c 4f 5c f7 a4 a3 2c a6 b5 4f 2b 86 94 c4 72 ad 2d 58 7c 5b 0d dd 8e 78 22 86 99 82 9c a0 77 0f dc 56 6d a6 82 05 bb 90 c0 39 bd d1 de 1b 20 51 ae 51 4e 5f c6 71 af b7 ad 31 32 83 26 0c 32 48 70 44 4b 96 32 04 ea 0c 1e bd 6d 5e 4d 8d b3 95 96 1e 29 8e f9 eb 84 6f 32 ac db 69 36 b6 9c 54 89 18 68 ce 51 49 18 df f2 df 84 b2 40 db 3c ba b6 46 c7 64 d9 fc 04 be f5 21 de 00 0d 52 b3 b8 b1 62 ec bf 18 b3 e0 d1 b3 7c 3c e8 ce 38 8b 1f d4 dc fc 02 4a ed 35 3b 03 1e 57 fa 93 32 30 37 36 c4 02 d8 c0 9c ec 7a a0 2b a0 4e 1f 09 fd 1f 57 07 a7 d6 77 41 51 a7 7e 59 da dd 2b 84 86 a3 3a 67 01 37 e3 47 d0 2c ba c3 81 7e c4 b0 6d 7a 53 7f fa b5 de 40 53 a1 b7 70 53 d4 07 fc 04 0f 4a a7 a8 a7 ac 1b 59 55 5c 4c 29 f9 59 93 9e 70 8c d8 4c 4d 23 86 0c bd 4f 3c 41 6f 0a b4 f4 2c 9d 32 52 29 da aa fb b7 1b 17 85 a9 8c 67 10 c0 10 09 c4 3b ed d1 92 41 a3 25 74 a0 50 08 13 70 8c a4 50 b2 fd b9 09 cc 4d 85 c0 f9 49 3a ef 4c 05 1c d0 80 27 84 1f cf 7a c8 97 88 32 a8 6f 36 d5 2e 3a 2f 6d ce 9b e0 1a 0f 75 23 8d b1 2d c1 40 15 f3 9b cf 78 9c 80 9e e8 b6 25 1b 38 1f 89 d6 49 26 6f d3 94 47 4f 5f f1 e7 d4 76 b3 29 07 12 90 22 3a bd 8a 5b 1b 1b 0b a9 27 08 f4 53 03 c8 3f a9 3e cf d2 cd b7 48 db 2c 4e f8 ca 7d 9f f4 8a 66 f0 7e 52 0e f4 17 17 80 ac 95 52 7a 5d 42 aa 8a 79 92 fb 9b ba 22 2c 7c 37 28 f0 f2 11 ff c3 0e 12 1c de c0 e0 49 d0 77 29 c3 53 e1 1a f3 c8 de 9f cb 4a da 1b b0 09 62 08 be 41 e4 74 e2 ba f8 b6 5e 34 44 ef f1 b8 0e a9 90 af 00 f7 be d2 95 9c d0 25 ac 0e 35 59 e2 1e e8 97 98 d7 63 c7 02 53 0a 5b f8 57 a4 2b d6 d4 95 1b 51 71 20 3f b6 79 22 1d 2f 32 2a 45 1c 0a 93 5c 99 5c 19 a4
+
+Packet 147:
+  Time: 2025-07-04 20:40:37.370
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 172.64.41.3
+  Length: 1278 bytes
+  Ports: 57711 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): .o....i......wH....;3..D.......4.^w.Y....U......}.....$..S..)...D...{..rz3..$..t/......Q.....1Ul.1..>.C.uN.IJEE....f....m.....e..\=....3qi{&....f..VW....D74t,.1.......P..~z./..'.e....k.%....L.l~..g..\...yS....Pnyo..n.......}...`........Y....U.....Kh.s5...-../....J.....Nqh.4.~..o.1.....F..3........r.......vN...5....x.....S.1&.........D....@k.'.zF.2..].._.9....Gv..f7~..Jk......Ktw.l.&.6..7..m./.7..9..$.^..\...7(....;..yG.!..6Z. .<...v.9`6.Z.UN3.....&P..4.5B..d.V..3.wR.&.B.;SL.):..,..x.>..EG..,.m...p..Y.[......{..sd.....[g.=x$[..8.V.. ...r.t..VRt..-....o.}ir...(i..G?d...0...&.%h...7#...#k..<3u...X..u....T'..GZv9v..#.._=.........T`.M(j.s..Ih[......*...|....4..^..bN.o.Xr..t.b.....]......;. ....{. ..>\.U.>.&Ba...2:.*no.....o&C...p...'..~...t....r....kE...w4...79.?.0.e./......v$7......./g....?...sD..L.$&.^..-\a.X~....>.xIV.T..e...z.u.+2..^oZ_uT.J..../.F&...4Ai]k.7.f?3..k..<@....dq.....c.....d......y........"..K.......tW0K#..o.uw.^$6...!Bg4.E..Lzn.3i.".`...@G......(.#l.;.(....>&i.G."OI...".-..l....N8+.!..36B\4<D.G..K..%i..*.2=.mp...........j&`.b/.R..$...I.Dw*.dR..x..:..ub...-.d.....2.V................../.(w..e.......ZK.JP.g."...X]O...?^.$.E U..|.X..->..GK...*.`U..0w..;..
+  Payload (HEX): e1 6f 01 bb 04 ea 8c 69 c4 00 00 00 01 08 77 48 8d d5 c0 b4 3b 33 00 00 44 d0 05 dd 1c 8e 0b 11 34 8b 5e 77 a3 59 e6 15 1a 15 55 ed 10 1b 9b a2 bc 7d e5 a4 7f 8a f5 d2 24 a1 ca 53 0d e4 29 a6 91 e1 44 9b 8e f2 7b a3 d3 72 7a 33 82 9e 24 a9 a4 74 2f 14 8c d4 a9 b0 f4 1d 51 f7 83 ca 11 c5 8d 31 55 6c 18 31 8f c8 3e 03 43 9b 75 4e 9e 49 4a 45 45 c2 f5 ab 08 66 06 9e c7 c4 97 6d 94 ae 81 c7 c3 9e 65 e5 9e ee 5c 3d f3 ca ce de 33 71 69 7b 26 92 ae cb c4 66 b7 7f 56 57 d3 ba eb 8e ff f8 44 37 34 74 2c 0e 31 1e 90 c0 8a f8 d2 9c c0 50 cf cd 7e 7a d8 2f b2 c1 27 e1 65 e4 97 0a fa e1 6b cd 25 ac cb d4 92 dc 4c 00 6c 7e ba 04 67 1c 9e 5c bd 0f e4 79 53 ce 8f 93 fe d2 50 6e 79 6f b6 e1 6e af 09 ba 8d ab 80 18 7d b3 ac e8 9b 60 1d 10 d1 a9 16 c1 09 e7 c4 9a 59 cf 16 82 b1 55 aa 0a bb d0 f7 4b 68 a8 73 35 92 df b7 e8 2d 89 ff 2f 9d 93 96 8f 4a 87 cf 08 be 9f 4e 71 68 f1 ac 34 15 7e 0c e2 6f f1 94 31 cb df ed ff 0e 46 bd da 86 33 2e e4 cc f3 18 c5 d3 0f 72 e4 c0 af f9 e1 a3 fa 13 76 4e 18 eb 9f e2 a7 35 88 2e b9 e6 78 99 c8 97 91 0e 9d 53 95 31 26 00 16 98 04 1b cf 0f e4 2e 44 96 9c 14 9f 40 6b 97 27 90 7a 46 c3 32 a7 9b 5d 17 bf 5f ae 39 03 00 b8 97 47 76 fa c0 66 37 7e e4 d1 8e 4a 6b b5 8c 80 ba 89 0b 4b 74 77 ee 6c c4 bd 26 82 36 13 cf 92 37 b0 b4 6d 0d 2f 81 37 12 e3 81 39 ef 03 24 85 5e d6 89 ca 5c 16 b2 cd 37 28 90 0c f8 e8 bc 3b 97 e7 79 47 f8 21 b6 17 36 5a fb 20 bb 3c f6 ed c0 76 90 39 60 36 03 5a d7 55 4e 33 94 89 c7 14 aa 26 50 da 03 34 11 35 42 a6 d3 64 93 56 b9 17 33 12 77 52 d2 26 02 42 cb 9d 3b 53 4c a8 29 3a 91 af 2c 93 fc 78 d2 82 3e 1e 9f 45 47 c5 8f 0b 2c e6 6d e1 b6 84 1a 14 70 c9 eb 59 c5 5b 06 92 c2 b0 09 f9 f8 7b c2 f3 9b 86 73 64 a4 e3 d2 8d 9f 16 5b 67 f5 3d 78 24 5b b4 a1 38 f4 56 2e 96 20 e6 e2 c0 72 cc 74 a9 c8 56 52 74 10 8b 2d 0c 9f e8 7f 6f 92 7d 69 72 96 df 8a e1 a4 9b 28 69 f0 d4 47 3f 64 b7 be 8b 30 bd 9a 12 26 f3 25 68 e4 18 98 37 23 db c5 8d ed 23 6b de 03 3c 33 75 fc 8f d2 58 e4 c8 8f 75 f2 c8 db 90 f8 54 27 82 b5 47 5a 76 39 76 02 80 23 a4 a8 5f 3d cc 04 1d 84 ec a2 1d 11 19 e7 54 60 e9 4d 28 6a aa 73 da 82 f2 49 68 5b f8 a9 10 fc 0f a1 2a e2 8d e1 00 7c 88 b2 fd e5 34 a7 92 5e af 95 62 4e ae 6f 1f 58 72 09 bf 74 ea 62 97 c1 b6 be ad 5d f1 c2 80 ff a6 04 97 3b 0d 20 18 82 90 e6 8b 7b a2 20 9a b4 3e 5c ec 55 cd 3e ab 26 42 61 f4 86 eb 12 32 3a 87 2a 6e 6f 16 f3 c1 e8 03 6f 26 43 a1 f5 8c 70 ca c4 1b 27 ad f7 7e e5 b0 fe a5 74 f8 8b f4 07 72 89 18 15 c9 6b 45 ba a2 02 77 34 bf dd ba 14 37 39 0d 3f 92 30 ba 65 14 2f b3 01 a7 92 8a 03 76 24 37 16 e7 84 bc cc 00 03 bf 02 2f 67 d8 cb a0 19 e6 ac 3f bc b3 8b 73 44 f1 cd 4c c1 24 26 d3 5e 0d 83 2d 5c 61 d9 58 7e 05 1b cc a5 9d 3e 12 78 49 56 16 54 01 ac 65 90 82 7f 7a 00 75 86 2b 32 19 85 5e 6f 5a 5f 75 54 e1 4a ef ba 2e d5 d2 2f bb 46 26 1b 00 c8 34 41 69 5d 6b d0 9d 37 d0 66 3f 33 16 ef 6b a7 13 3c 40 84 81 bf ec 64 71 95 89 c8 93 e1 e3 63 f4 d0 f9 93 fc 64 9f a0 f9 bb 8b ae 79 f9 89 eb 95 09 d8 f2 12 03 22 81 f9 4b 0e 13 88 85 06 97 d3 74 57 30 4b 23 83 09 6f ee 75 77 f3 89 5e 24 36 19 cd 1c 21 42 67 34 13 45 ad 11 4c 7a 6e ff 33 69 c2 90 22 ba 60 be 08 b7 40 47 d7 ad e0 d7 f7 17 04 28 c4 b4 23 6c b2 3b e6 28 04 b5 90 06 3e 26 69 01 47 c5 22 4f 49 b5 f1 f1 22 ed 2d de 1e 6c ea dd ff f4 4e 38 2b eb 21 97 c3 33 36 42 5c 34 3c 44 e2 47 e6 7f 4b 98 ad 25 69 dd ac d1 2a c6 a8 32 3d a1 6d 70 12 a4 17 ec d6 08 a8 aa 15 11 0f 6a 26 60 17 62 2f 05 52 9f 9b 24 f2 0a fd 49 ea 44 77 2a 86 64 52 03 f9 78 dc c7 3a b7 b7 75 62 88 8d 06 2d 13 64 e3 19 90 95 15 32 d6 56 c2 9b 14 e2 a6 da b8 17 e0 d4 7f ed 1f 15 a3 ed 10 ed be 83 d0 2f d4 28 77 d4 c6 65 ca fd 1b 9e 83 e6 d9 8b 5a 4b b3 4a 50 ab 67 e1 83 ab 22 bf b8 c5 58 5d 4f a8 d3 12 3f 5e db 24 85 45 20 55 a9 a7 7c be 58 d1 b1 8a 2d 3e 0c f8 47 4b f0 bb 06 04 2a 94 60 55 99 fd 30 77 ae c2 9c 3b 1f fa
+
+Packet 148:
+  Time: 2025-07-04 20:40:37.423
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.225.194
+  Destination: 224.0.0.251
+  Length: 473 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 453 bytes
+  Payload (ASCII): ......,............._googlecast._tcp.local........x.30Google-Nest-Hub-6b757bf9ce1e35e7a051d0ba4994c992..............#id=6b757bf9ce1e35e7a051d0ba4994c992#cd=657885EB328DC4FD20EA9D680BB4EA2B.rm=4FDF6243A6E3CA80.ve=05.md=Google Nest Hub.ic=/setup/icon.png.fn=217 display 3.ca=231941.st=0.bs=FA8FCA5D494E.nf=1.rs=...!.....x.......I.fuchsia-1c53-f93a-5d2b...@.......x.......@.......x....h.d..P...Q\...@.......x....h.d..o..xd..E.@.......x..................
+  Payload (HEX): 14 e9 14 e9 01 c5 9c 2c 00 00 84 00 00 00 00 01 00 00 00 06 0b 5f 67 6f 6f 67 6c 65 63 61 73 74 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 0c 00 01 00 00 00 78 00 33 30 47 6f 6f 67 6c 65 2d 4e 65 73 74 2d 48 75 62 2d 36 62 37 35 37 62 66 39 63 65 31 65 33 35 65 37 61 30 35 31 64 30 62 61 34 39 39 34 63 39 39 32 c0 0c c0 2e 00 10 80 01 00 00 11 94 00 c1 23 69 64 3d 36 62 37 35 37 62 66 39 63 65 31 65 33 35 65 37 61 30 35 31 64 30 62 61 34 39 39 34 63 39 39 32 23 63 64 3d 36 35 37 38 38 35 45 42 33 32 38 44 43 34 46 44 32 30 45 41 39 44 36 38 30 42 42 34 45 41 32 42 13 72 6d 3d 34 46 44 46 36 32 34 33 41 36 45 33 43 41 38 30 05 76 65 3d 30 35 12 6d 64 3d 47 6f 6f 67 6c 65 20 4e 65 73 74 20 48 75 62 12 69 63 3d 2f 73 65 74 75 70 2f 69 63 6f 6e 2e 70 6e 67 10 66 6e 3d 32 31 37 20 64 69 73 70 6c 61 79 20 33 09 63 61 3d 32 33 31 39 34 31 04 73 74 3d 30 0f 62 73 3d 46 41 38 46 43 41 35 44 34 39 34 45 04 6e 66 3d 31 03 72 73 3d c0 2e 00 21 80 01 00 00 00 78 00 1f 00 00 00 00 1f 49 16 66 75 63 68 73 69 61 2d 31 63 35 33 2d 66 39 33 61 2d 35 64 32 62 c0 1d c1 40 00 01 80 01 00 00 00 78 00 04 ac 10 e1 c2 c1 40 00 1c 80 01 00 00 00 78 00 10 fd f5 68 d2 b6 64 fd 87 50 10 dd dd 51 5c aa c6 c1 40 00 1c 00 01 00 00 00 78 00 10 fd f5 68 d2 b6 64 fd 87 6f 0d ea 78 64 a8 a5 45 c1 40 00 1c 00 01 00 00 00 78 00 10 fe 80 00 00 00 00 00 00 ea 15 81 96 a4 0a b3 0b
+
+Packet 149:
+  Time: 2025-07-04 20:40:37.460
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.225.194
+  Destination: 239.255.255.250
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 fa 04 ef ff ff fa
+
+Packet 150:
+  Time: 2025-07-04 20:40:37.480
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.236.145
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 151:
+  Time: 2025-07-04 20:40:37.496
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 61 bytes
+  Ports: 58557 -> 53
+  Payload Length: 41 bytes
+  Payload (ASCII): ..5.)).+............s.joinhoney.com.....
+  Payload (HEX): e4 bd 00 35 00 29 29 b1 2b ce 01 00 00 01 00 00 00 00 00 00 01 73 09 6a 6f 69 6e 68 6f 6e 65 79 03 63 6f 6d 00 00 01 00 01
+
+Packet 152:
+  Time: 2025-07-04 20:40:37.506
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 61 bytes
+  Ports: 55622 -> 53
+  Payload Length: 41 bytes
+  Payload (ASCII): .F.5.) ../...........s.joinhoney.com..A..
+  Payload (HEX): d9 46 00 35 00 29 20 c7 00 2f 01 00 00 01 00 00 00 00 00 00 01 73 09 6a 6f 69 6e 68 6f 6e 65 79 03 63 6f 6d 00 00 41 00 01
+
+Packet 153:
+  Time: 2025-07-04 20:40:37.514
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.225.194
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 154:
+  Time: 2025-07-04 20:40:37.522
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.237.184
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 155:
+  Time: 2025-07-04 20:40:37.527
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.237.184
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 156:
+  Time: 2025-07-04 20:40:37.538
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.225.194
+  Destination: 239.255.255.250
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 fa 04 ef ff ff fa
+
+Packet 157:
+  Time: 2025-07-04 20:40:37.543
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.225.194
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 158:
+  Time: 2025-07-04 20:40:37.553
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.224.170
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 159:
+  Time: 2025-07-04 20:40:37.558
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.227.89
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 160:
+  Time: 2025-07-04 20:40:37.569
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 162.159.61.3
+  Length: 1278 bytes
+  Ports: 57624 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): ......z.........hB.....D..4..5...H`..2.....8...f....d.GR%h.\;..)t..0.....kX..W;.E....3C..N?H.1..@;n........qZWuF.Q^44...L.0.Da.H..`>..eyRm.Y.!1r...n.M..jOu....P/.R.E......W...6r..1O)..#..7...B.[s>......9!..A.X.U..f g.....U..f.....-.Pu..<.L..3$.:......A..T]i....Ti..X.>...S... zo.......R.c..A._.L.Z..E....N]....8.up|FS./.,2....2dz..]Y.c...Re.f......&D...{6..q.C6.G"....'W..mE;1..Y........[...+eu..m.....Q.lI+c&.......2...or......t.f.$........'..O..}.(.3]@.X.........).d.E.M.>..u1.B.]..,...: ......R@\.u...;.j..r.|.D.."I....k.5..x~.5!.I.kwC.-..r........{L..7..9{"....IMh...`.f.$.[.*.q........1..........$R/..6.....B@1.;...P6N.K1......i......&B;TAT....R....V.............kf.......v.....H.A+zD..x.e.[e$v.lw.Vk..7.d.O?......d..,...kL.Q...Q...hWHZEx......n.Twj......X].O5...o..(C(nf7...bpI/....@(O.u.r...|Y}.e.....?@...#..SU+`<].*p[........cr7DKQ.....{(3k..Bn.K&i..._....T.~....^&3/+.....!X....z...1ST.....ENI..U........K..[...X..[....F/`..[......1aw.....oO...tp.........<.K.{H.b6...|a...B....B.$...IW.g..o..b..=E.....{......y.7..+]....|o.F...1u8^.F..r..B.D..+.......I...OO.4..sT'ti...T.!...|....C.3.....X...............+.......c.$..f...]'..!.&....T0.Q.....,K.~.j..!..p......E..9.c..4..r.I<.......]Q..
+  Payload (HEX): e1 18 01 bb 04 ea 7a c8 ca 00 00 00 01 08 1c ef 68 42 e9 96 06 c9 00 00 44 d0 d0 34 db f8 35 1b ab ca 48 60 ef 19 32 a5 e4 18 0a ef 38 f7 cb fa 66 ba 87 c0 bb 64 a5 47 52 25 68 b8 5c 3b b2 da 29 74 ee ca 30 87 07 a0 84 07 6b 58 81 1e 57 3b 8b 45 80 ae d1 e2 33 43 19 93 4e 3f 48 a1 31 c6 cc 40 3b 6e 8b 12 16 ee 7f ad c1 ca 71 5a 57 75 46 bc 51 5e 34 34 f7 c1 f1 4c 99 30 bf 44 61 c1 48 a8 bc 60 3e c7 df 65 79 52 6d 02 59 be 21 31 72 83 e2 dd 6e a1 4d 16 c5 6a 4f 75 b2 b8 87 da 50 2f e9 ac 52 8c 45 dd 16 d2 80 b6 1c eb 57 04 a9 b8 36 72 11 e5 8d 31 4f 29 07 b5 23 fa ac 37 d9 0c a5 42 bb 5b 73 3e b2 83 d1 04 81 c5 39 21 de d1 41 fb 58 16 55 bf f7 66 20 67 94 14 a7 cd 0c 55 b5 e5 66 ad d6 a7 ce ee 92 10 2d 2e 50 75 f4 f7 3c b4 4c 9a cc 33 24 8e 3a b8 de cf c1 88 9e 41 fa aa 54 5d 69 b7 9b 1f cf 54 69 a8 a1 58 7f 3e 8e c3 af 81 53 9d c7 ee b1 20 7a 6f f2 c8 da de 7f ec e1 52 eb 90 bc 63 08 1e 41 a1 5f 9e 4c c4 5a 00 94 45 0b 1a 18 86 4e 5d f0 8e 19 09 38 12 75 70 7c 46 53 1f 2f b4 2c 32 92 db e3 d5 bf 32 64 7a 0a 9c 5d 59 b2 63 86 0f cc 52 65 d8 66 e1 9c 2e 8d f2 d6 e5 8a 26 44 df bd a1 a3 7b 36 9f f2 71 8d 43 36 f4 47 22 d2 cc 8e ba d6 27 57 a3 c2 6d 45 3b 31 1f b9 59 11 d8 c3 ef f7 ea 82 92 df 18 5b ce b3 9b ed 2b 65 75 a8 f8 6d a9 c0 ab f4 b2 51 af 6c 49 2b 63 26 ba e7 b9 ca a9 19 1c 12 a9 32 aa b0 92 6f 72 15 1f fb c1 ca aa f7 74 09 66 f9 24 96 ed a2 1e d0 bc e5 85 a0 09 a0 27 df b5 fc 4f da 13 7d 9a 28 04 33 5d 40 f5 58 8e 0e 82 8a f6 e2 e4 fc f9 29 89 64 86 45 a0 4d 2e 3e bf 97 75 31 88 42 d5 5d 8c da 2c ad ed ec b4 3a 20 80 1f da eb c9 c4 52 40 5c 1c 75 ba fb bd 3b ee 6a 80 a7 72 bf 7c 0c 44 1e e1 22 49 8e cc f2 ef 6b 1c 35 90 c8 78 7e d4 bd 35 21 8a 49 af 6b 77 43 86 2d a3 9a 72 02 aa 13 08 14 fd 9d f8 7b 4c 99 16 37 86 c1 39 7b 22 0d 94 0e da 49 4d 68 bc e0 f1 60 89 66 93 24 ee 5b 18 2a e9 71 f8 7f ff c3 17 bd ef c8 31 fe 9a e7 7f b6 ee 02 f6 c9 d9 b7 24 52 2f bc bc 36 97 97 8c d7 f6 42 40 31 c6 3b b4 c1 b6 50 36 4e 96 4b 31 0b d6 03 c1 1c 83 69 16 a4 90 15 ad df 26 42 3b 54 41 54 b7 fb 86 02 52 b8 b1 0b 96 56 95 aa 90 bd 9b 12 c7 12 d9 9f 8e d4 db 88 2e 6b 66 a2 0f 99 cc d2 b4 01 b0 76 1c a2 ef d5 fd 48 a8 41 2b 7a 44 d8 e2 78 07 65 f9 5b 65 24 76 a7 6c 77 c5 9a 56 6b c0 c5 37 dd 64 18 4f 3f bc 11 0d c9 ae fc e6 64 0c b7 2c fc 17 b5 6b 4c 96 51 a4 96 d3 51 ea a0 a7 03 e1 68 57 48 5a 45 78 e4 f2 cd 82 ac 17 ac 6e 9b 54 77 6a b2 a5 b6 92 be 02 58 5d f8 4f 35 c3 ed 1e 6f 0c fb 28 43 28 6e 66 37 ca e0 c6 62 70 49 2f 9e fa a5 84 40 28 4f d4 75 eb 72 c4 eb a6 10 7c 59 7d 94 65 15 ac 8f 06 ef 3f 40 c8 ba 0b cd 23 f6 f7 53 55 2b 60 3c 5d d3 2a 70 5b bb f4 f9 d1 13 81 8a 1d 63 72 37 44 4b 51 a5 ec cf d7 da 7b 28 33 6b ff ab 42 6e db 4b 26 69 8a 8b 8c 5f ed 1d c8 c8 54 f1 7e a3 cb db e0 5e 26 33 2f 2b ea 0f a4 ac b6 21 58 d4 c5 b9 d1 1a 7a 87 f7 b1 31 53 54 de e0 15 07 e5 45 4e 49 f7 cb af 55 d0 97 f1 fa 8c fd 8d e3 e7 a4 4b ff 83 5b 93 a8 e3 58 84 13 5b 8b bc 0c ac 46 2f 60 0e dc 5b 83 9b 88 e8 90 80 cf b9 1c 31 61 77 de bf ac 2e c1 e4 6f 4f d3 08 e9 74 70 ee 06 a3 06 14 2e db 03 0f 3c cb 4b b3 7b 48 82 62 36 fc d4 e6 7c 61 d8 18 8a 42 b5 93 03 2e 42 a8 24 dc cd c2 87 49 57 80 67 e9 fa 6f 83 cb 62 d8 84 bb 3d 45 f5 9e fb 07 ee 7b a6 1d ac 08 f0 9e af fb 79 12 37 f4 d3 2b 5d e7 e5 16 be 7c 6f 15 46 90 8d ec 8f 31 75 38 5e f9 46 82 18 72 91 16 42 19 44 9f 87 2b 18 a0 a6 86 99 f2 94 dd 49 18 bc 09 4f 4f 0f 34 7f 8c 73 54 27 74 69 92 92 9e 54 f8 21 88 e2 c8 7c a5 cd cc ca 43 17 33 cc e0 8d 80 10 58 a9 bd 9f 94 9c 9f 18 c1 0d f8 cb a1 91 f6 10 8d 2b af 13 91 19 fa c6 02 63 ed 9b 24 1a a8 66 ff ba c5 5d 27 ef f3 a5 ac 21 d8 9f 26 b7 07 f5 d4 54 30 c7 51 7f e3 13 d2 c3 2c 4b 9e 7e f1 89 bc b1 6a f2 c8 21 e5 b8 c6 70 a6 d7 9f fa 1e c0 14 45 83 07 39 a5 63 cc 96 c3 34 a1 c4 72 08 49 3c da cf 1f 82 05 bf e2 5d 51 07 c7
+
+Packet 161:
+  Time: 2025-07-04 20:40:37.625
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 151 bytes
+  Ports: 53 -> 55622
+  Payload Length: 131 bytes
+  Payload (ASCII): .5.F...(./...........s.joinhoney.com..A.............N.ns-cloud-b1.googledomains...cloud-dns-hostmaster.google........T`..........,
+  Payload (HEX): 00 35 d9 46 00 83 fd 28 00 2f 81 80 00 01 00 00 00 01 00 00 01 73 09 6a 6f 69 6e 68 6f 6e 65 79 03 63 6f 6d 00 00 41 00 01 c0 0e 00 06 00 01 00 00 00 a9 00 4e 0b 6e 73 2d 63 6c 6f 75 64 2d 62 31 0d 67 6f 6f 67 6c 65 64 6f 6d 61 69 6e 73 c0 18 14 63 6c 6f 75 64 2d 64 6e 73 2d 68 6f 73 74 6d 61 73 74 65 72 06 67 6f 6f 67 6c 65 c0 18 00 00 00 03 00 00 54 60 00 00 0e 10 00 03 f4 80 00 00 01 2c
+
+Packet 162:
+  Time: 2025-07-04 20:40:37.636
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 77 bytes
+  Ports: 53 -> 58557
+  Payload Length: 57 bytes
+  Payload (ASCII): .5..9.+...........s.joinhoney.com.....................
+  Payload (HEX): 00 35 e4 bd 00 39 d6 b0 2b ce 81 80 00 01 00 01 00 00 00 00 01 73 09 6a 6f 69 6e 68 6f 6e 65 79 03 63 6f 6d 00 00 01 00 01 c0 0c 00 01 00 01 00 00 01 07 00 04 82 d3 1a e5
+
+Packet 163:
+  Time: 2025-07-04 20:40:37.644
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.226.81
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 164:
+  Time: 2025-07-04 20:40:37.651
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.224.170
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 165:
+  Time: 2025-07-04 20:40:37.667
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.224.170
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 166:
+  Time: 2025-07-04 20:40:37.703
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.90
+  Destination: 224.0.0.251
+  Length: 570 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 550 bytes
+  Payload (ASCII): .....&..............._dosvc._tcp.local............DOMINIC._dosvc._tcp.local..DOMINIC._dosvc._tcp.local..!...............DOMINIC.local..D...........P=65280.SH00=OEws3v8+XIaPest6.SH01=S+YAKS3d9XPytmW1.SH02=TR0v7qnPg2par2fS.SH03=TvjFOBDxv1pd/LoP.SH04=ZsrTyBxul0ZSaGBK.SH05=aZ1erkojQ7YOeOVL.SH06=fVGBT7gm9kKbzL84.SH07=f2nwFUFlwo/1tuxM.SH08=gjzjswSlWQoJKEt4.SH09=g1ColCcDCt5adO59.SH0a=in9nhOphjBJnvbiN.SH0b=oooM8FJi/KDNl8hJ.SH0c=pmZuI7347GPJHr7f.SH0d=tMjeFypRnoTRUqz2.SH0e=2Ks6W2G74+UUZbem.SH0f=2sdOJsseTiOUntxm.SH10=8YpEO3svCgEvtZgK.SH11=9ekRT/YntHLHMXQo
+  Payload (HEX): 14 e9 14 e9 02 26 b3 e4 00 00 84 00 00 00 00 01 00 00 00 02 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 0c 00 01 00 00 00 00 00 1b 07 44 4f 4d 49 4e 49 43 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 07 44 4f 4d 49 4e 49 43 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 21 00 01 00 00 00 00 00 15 00 00 00 00 1e 00 07 44 4f 4d 49 4e 49 43 05 6c 6f 63 61 6c 00 c0 44 00 10 00 01 00 00 00 00 01 94 07 50 3d 36 35 32 38 30 15 53 48 30 30 3d 4f 45 77 73 33 76 38 2b 58 49 61 50 65 73 74 36 15 53 48 30 31 3d 53 2b 59 41 4b 53 33 64 39 58 50 79 74 6d 57 31 15 53 48 30 32 3d 54 52 30 76 37 71 6e 50 67 32 70 61 72 32 66 53 15 53 48 30 33 3d 54 76 6a 46 4f 42 44 78 76 31 70 64 2f 4c 6f 50 15 53 48 30 34 3d 5a 73 72 54 79 42 78 75 6c 30 5a 53 61 47 42 4b 15 53 48 30 35 3d 61 5a 31 65 72 6b 6f 6a 51 37 59 4f 65 4f 56 4c 15 53 48 30 36 3d 66 56 47 42 54 37 67 6d 39 6b 4b 62 7a 4c 38 34 15 53 48 30 37 3d 66 32 6e 77 46 55 46 6c 77 6f 2f 31 74 75 78 4d 15 53 48 30 38 3d 67 6a 7a 6a 73 77 53 6c 57 51 6f 4a 4b 45 74 34 15 53 48 30 39 3d 67 31 43 6f 6c 43 63 44 43 74 35 61 64 4f 35 39 15 53 48 30 61 3d 69 6e 39 6e 68 4f 70 68 6a 42 4a 6e 76 62 69 4e 15 53 48 30 62 3d 6f 6f 6f 4d 38 46 4a 69 2f 4b 44 4e 6c 38 68 4a 15 53 48 30 63 3d 70 6d 5a 75 49 37 33 34 37 47 50 4a 48 72 37 66 15 53 48 30 64 3d 74 4d 6a 65 46 79 70 52 6e 6f 54 52 55 71 7a 32 15 53 48 30 65 3d 32 4b 73 36 57 32 47 37 34 2b 55 55 5a 62 65 6d 15 53 48 30 66 3d 32 73 64 4f 4a 73 73 65 54 69 4f 55 6e 74 78 6d 15 53 48 31 30 3d 38 59 70 45 4f 33 73 76 43 67 45 76 74 5a 67 4b 15 53 48 31 31 3d 39 65 6b 52 54 2f 59 6e 74 48 4c 48 4d 58 51 6f
+
+Packet 167:
+  Time: 2025-07-04 20:40:37.723
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.90
+  Destination: 224.0.0.251
+  Length: 71 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 51 bytes
+  Payload (ASCII): .....3...............DOMINIC._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 33 99 c0 00 00 00 00 00 01 00 00 00 00 00 00 07 44 4f 4d 49 4e 49 43 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 00 01
+
+Packet 168:
+  Time: 2025-07-04 20:40:37.734
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 78 bytes
+  Ports: 58126 -> 53
+  Payload Length: 58 bytes
+  Payload (ASCII): ...5.:.f0f...........mobile.events.data.microsoft.com.....
+  Payload (HEX): e3 0e 00 35 00 3a 1a 66 30 66 01 00 00 01 00 00 00 00 00 00 06 6d 6f 62 69 6c 65 06 65 76 65 6e 74 73 04 64 61 74 61 09 6d 69 63 72 6f 73 6f 66 74 03 63 6f 6d 00 00 01 00 01
+
+Packet 169:
+  Time: 2025-07-04 20:40:37.739
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.237.184
+  Destination: 224.0.0.251
+  Length: 69 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 49 bytes
+  Payload (ASCII): .....1...............ivins._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 31 95 c3 00 00 00 00 00 01 00 00 00 00 00 00 05 69 76 69 6e 73 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 80 01
+
+Packet 170:
+  Time: 2025-07-04 20:40:37.775
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.237.184
+  Destination: 224.0.0.251
+  Length: 69 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 49 bytes
+  Payload (ASCII): .....1...............ivins._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 31 95 c3 00 00 00 00 00 01 00 00 00 00 00 00 05 69 76 69 6e 73 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 80 01
+
+Packet 171:
+  Time: 2025-07-04 20:40:37.796
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.237.184
+  Destination: 224.0.0.251
+  Length: 69 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 49 bytes
+  Payload (ASCII): .....1...............ivins._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 31 95 c3 00 00 00 00 00 01 00 00 00 00 00 00 05 69 76 69 6e 73 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 80 01
+
+Packet 172:
+  Time: 2025-07-04 20:40:37.811
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 142.250.195.170
+  Length: 1278 bytes
+  Ports: 61604 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): .....f..........~...7..D..0q9....>.Pl<.S[.>...=...r......N..RD+....:.-...a.y...^ ..S...Q...8.r.sW)W.0n.D....!Hh.@8....5.....c..u.......ZN...]...#r....?...5..o...H5-z.3....U...(.O<.......n7..._.~wF.F.A.ct......5..-%o4..-....v.it...k..C[.;...j..g=.K,i...G..-."...D.<uOH}.).P'MJ..ld.....4.>SE.T".=.'..Q..._.=U....K....j`...J...$.U.]...H..c...].<..._.F...y_...j....).>..]c4;.4$ ..&......,.....\.g.c.-\..~;....s/$!F..>6........j.....>.L_FY.......]......a...)..B.........j......F..g..h....k+p..3..5'.w3.a.xL.:.v...K-...+..z.{...._......+....... sO;B.P.i2..W.(....v..]A......w...#Na.1|.I.q.5....ApW..J.YG..c.".sF..Z..P..m..Qi.4TK.QlZ2(^K......[@.t..)..(.c.9...e..|m.I...d.<.....u.!Y... |.......U..i..h.C..z...[...w.j..#........b.)e.....Wd..q......%o...}S!.J.........:..`)..|.R.7..z?0J.?x....v....Q.3D........:.|.h{.:.L.>....n.6..E(.5.(.t..;$..^..Z1../...o.#I.&%X"..t'[..}@p.`G.'......l....O{.zo:.Sn..Se(.O.Jcrsd.)4.t7'.....G...g[%...W..mS...n.==5....> ...?.}......R.v9..U....9m....".vN;.....Y.1@/..:..V.zZ....p......&ww..U.5.*..36.......6..~.\...y3.>..Z.X.B$..B.DZ$.#"..y.:p..].........}}V..3..i.0...i...8n.|.3.?_A...{.b.t..vd...5.vf.....g...Y..3..".2G..n.i....bZ...#^.v6Cvs.N.J..C...RJ]`.P..\.
+  Payload (HEX): f0 a4 01 bb 04 ea 66 ae cb 00 00 00 01 08 ac af 1a 7e d1 c0 7f 37 00 00 44 d0 96 bd 30 71 39 8d ee d3 c9 8a 3e 9b 50 6c 3c 84 53 5b 12 3e 84 ca cb 3d a6 fa 0e 72 16 e9 f9 80 d4 bb ad 4e d0 e3 52 44 2b e0 d7 8e d3 cb 3a 9e 2d d5 f4 f4 61 03 79 c7 17 8d 5e 20 94 ee 53 f5 da d7 51 94 09 b0 38 be 72 e8 73 57 29 57 fc 30 6e ff 44 db dd d7 a7 9a 21 48 68 cb 40 38 d9 e6 05 b7 35 bc 18 bd 97 8e 63 d6 09 75 d2 96 a5 99 01 80 aa b1 5a 4e 81 91 7f 5d a9 df eb 23 72 1a 06 9a 0e 3f bf d8 f0 35 ea b5 bc de 6f e1 17 db 48 35 2d 7a a5 33 80 e6 f7 fd 55 d2 02 0d 28 c2 4f 3c 91 aa b9 a1 d3 9b a4 ee 8f 6e 37 e9 ab 07 f0 5f 1f 7e 77 46 cf 46 88 41 0e 63 74 d7 f7 b5 b4 8f 8f 35 87 0d 2d 25 6f 34 89 9d 2d 93 ff 8b ba 76 a8 69 74 0b c9 ab f8 6b b0 82 43 5b dc 3b be 1d 99 6a d4 05 67 3d ed 4b 2c 69 b4 a9 e9 47 c5 fc 2d d4 22 c2 d7 87 bd 44 dd 3c 75 4f 48 7d 12 29 05 50 27 4d 4a 94 d5 6c 64 d5 9a 82 0a 9a b2 34 a9 3e 53 45 93 54 22 09 3d b9 27 09 c4 51 fa fc e4 5f f5 3d 55 9f 87 81 b4 4b a1 de cb bd f4 6a 60 9c f1 b9 fe 4a c3 fd cc 82 24 05 55 09 5d 97 b4 89 48 fc 88 63 ec c5 aa cd 5d 0e 3c b9 f7 ca 5f c1 46 fe 06 2e 79 5f ca 19 8c 6a bd b6 0c 8e 29 14 3e ac 7f 5d 63 34 3b a8 34 24 20 a3 ca bb 26 c0 e1 be 96 f3 0b 00 89 2c 85 ad 84 c4 16 5c 05 67 11 63 a0 2d 5c 05 0d 7e 3b ac 13 9e 1d 73 2f 24 21 46 dc b1 83 3e 36 cc 9b 09 fd 83 83 98 b3 a1 6a e3 86 e0 13 84 e7 3e d5 9e 4c 5f 46 59 88 c7 fa 00 cb 10 f2 af 5d f6 bf da 03 90 8d 61 14 ca e2 29 e9 84 80 a6 42 18 81 f7 08 f6 fb bc 8d c4 92 6a fa fc 2e 82 7f 11 46 bb 8a 67 d7 f0 68 84 13 f8 f0 6b 2b 70 c8 ba f3 33 f0 c3 35 27 91 77 33 2e 61 a5 78 4c 87 3a 0c 76 ae 19 be 4b 2d f8 8d c8 2b 9c f2 7a a1 7b be b4 8e df 5f 05 f3 a5 fd cd 87 ed 02 2b f7 1f 01 b4 b6 16 e2 20 73 4f 3b 42 b0 50 cc 69 32 ac e6 57 e1 28 80 a1 88 b5 76 00 83 5d 41 18 89 cb bb ff fd 9a 77 9b 85 f2 23 4e 61 93 31 7c d0 88 49 9e 71 ee 35 df c6 b9 cf a8 a7 41 70 57 bd c9 4a 02 59 47 bb cc 63 cd 22 9d 73 46 96 c4 5a 1f d1 50 e5 1b 6d b7 ec 51 69 97 34 54 4b cb 98 51 6c 5a 32 28 5e 4b 93 0c b9 c9 db 9e 95 5b 40 d9 74 e3 c2 29 ae e9 28 08 63 c8 39 c8 8a 04 c1 65 1c a2 7c 6d a0 49 ea fb 2e 64 06 3c a1 0c 96 eb 88 d2 75 c0 21 59 f3 1d d6 20 7c d8 89 ad 08 f5 bd 80 d1 55 cb ed 69 7f cd 68 ce 85 43 91 ad 7a fd f0 c5 5b e0 f4 9f 77 fd 6a 1d 06 23 1b b4 95 e6 e3 c2 bd a1 e4 62 e4 29 65 fd a4 de 0c 80 57 64 1a ed 71 f3 f0 10 dc fe cf 25 6f a5 da 0c 7d 53 21 ce 4a 8d a1 9d db de 8c f0 91 0a d0 f1 3a 9a 9d 60 29 c0 d5 ad 7c d9 52 d5 37 91 f3 a6 7a 3f 30 4a d5 3f 78 b5 8c fa e8 b0 76 17 86 e7 04 51 a1 33 44 04 d7 82 bc ca c7 9c 80 16 dd 3a e4 7c 8e 68 7b ed 3a d1 4c d7 3e a5 e0 d9 d1 6e f2 36 fd d5 45 28 9c 35 c7 88 28 06 74 16 95 3b 24 e7 d0 5e 82 cd 5a 31 11 ec 2f db e7 de 6f c6 23 49 d7 26 25 58 22 ac ec af 74 27 5b f6 e7 b4 7d 40 70 f0 60 47 86 27 d5 e8 a9 17 01 8d f7 6c 18 9e 9e d0 4f 7b 93 7a 6f 3a ba 53 6e cd ce 53 65 28 eb 4f c8 4a 63 72 73 64 04 29 34 f2 81 b6 74 37 27 bf c4 ce 89 85 1c 47 b6 f5 07 67 5b 25 90 c4 f5 57 14 16 6d 53 15 f7 af 6e 12 3d 3d 35 e5 13 e4 ad 05 3e 20 bf b8 e0 3f f0 7d fd a5 f7 a7 f4 91 52 1b 76 39 a1 e8 92 85 55 f2 bd 0c e1 c8 b2 39 6d 92 15 16 ca 22 19 76 4e 3b 0a f9 bf b7 e9 59 ba 31 40 2f e7 1c 3a ce db 56 d4 7a 5a d4 1b 7f 0f 70 d1 07 bf 86 bf ce 26 77 77 13 dd 55 c8 35 dd 2a ea c2 8e 33 36 e3 96 f4 02 cb e9 cf f1 89 36 1e 08 7e 8a 5c b1 88 c5 79 33 b1 3e f4 e3 aa 5a d0 58 cf 42 24 06 f6 42 c0 44 5a 24 e2 23 22 b9 a2 79 7f 3a 70 9c cf 5d da fd a8 f4 90 15 83 94 df 7d 7d 56 18 a9 33 ba 83 69 eb 30 88 d7 1f 69 98 d6 8f 02 38 6e ad 7c f0 b1 ab 33 f5 3f 5f 41 90 de c6 7b ee 62 ed 74 b0 f4 76 64 fb 06 04 35 ea 76 66 a3 18 c5 e5 f2 67 90 c4 16 59 06 a3 33 f2 c2 81 22 d7 32 47 b4 f7 6e cf 69 85 09 0a e2 62 5a b0 c1 7f 23 5e fb 76 36 43 76 73 98 4e ea 4a 84 a8 43 01 e9 d4 52 4a 5d 60 14 50 07 0c 5c f0
+
+Packet 173:
+  Time: 2025-07-04 20:40:37.843
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.90
+  Destination: 224.0.0.251
+  Length: 71 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 51 bytes
+  Payload (ASCII): .....3...............DOMINIC._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 33 99 c0 00 00 00 00 00 01 00 00 00 00 00 00 07 44 4f 4d 49 4e 49 43 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 00 01
+
+Packet 174:
+  Time: 2025-07-04 20:40:37.858
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 172.64.41.3
+  Length: 1278 bytes
+  Ports: 57711 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): .o............wH....;3..D.g...+....{..V*.....]3....S........o......!XW^....b.6..S.u.<...%....d....<b...uuXCgY..Y?..l........>.r..?...Z).@.t..u.=..P..H.J....$.Lk.......?...[...^.p..b.4..Y...:...|A.d......b...;._..I.}....W.!...`.O.B.O`.W*..NZ...q.Ks.r...{.Fr...My."1)....]^t.q..T..U.h.$[..b........ 6_..g.].G......Ze..t.!..m.........d.HA...1..\L../..^.^.|.-..].!...+....z....I1.gJ.L.v(..i-....c.......\..*n..6...P._/.).\..F....F.S,..I....).....#E..G.{./...AE..&...gcyk...k...Q...$..F.."..z.O...7_.......... ..(i(..@..`..m....j..)U.c;.E....$....$..QP...s.xqK6P.km.?..:...8...H'..?...=...=.'...k.0.D....'.K..R..s.&..{..w^Q.......u.z...r....8.w......Ee...x./.E.}Y.+c.u3|k..G.E...................?Z.u...u3Z%..:.7.O.si..!..D%.......".hh..E.8.cB......<..).84.OpUH..0..k.5J..E`t.#.....c.P...wx.G.l........p..b...s......Q ..`..c'. ......e.{W......*8.v.n...x/.....Kj5..b.$.3..4.8.U.........u..m.'n..{.$.S....=P.y*......z..ye.P4.<c...a.._,"9. ....D..|...7#.3...E/......2S).M|..Zl^841/....q.L}X(.5!...r.{..D`.+.I..;.....|.:..X....%i...x......6..qt..|.....tn.....6.I[.19.....U8b^..S.x.A1.......H;].Z.F.O.tz......^1.T.qn=M..P..j.?..o...V<..$..Q..2..h...53.w.I.._p_^.{.Yu...../T[.&..%5aX,.....e........k
+  Payload (HEX): e1 6f 01 bb 04 ea db 0a c5 00 00 00 01 08 77 48 8d d5 c0 b4 3b 33 00 00 44 d0 67 d0 e3 ef 8e 2b c0 9c f8 d7 7b f0 a7 02 56 2a bf aa a0 97 d0 5d 33 d1 18 ad ac 53 16 1e f7 b8 92 be 8e 0d 6f a6 09 a1 c8 c0 c6 88 21 58 57 5e c1 82 d1 ac 14 62 df 36 9d d7 53 e6 75 d4 3c 9a c5 db a4 25 0e 1c 8b 80 64 0b a0 a9 b4 3c 62 10 ab d9 75 75 58 43 67 59 bd e1 59 3f b6 e3 bd 6c 88 be 91 f5 98 93 19 0d 3e 0f 72 9d 92 3f eb 16 0b 5a 29 ff 40 0c 74 f8 b2 75 f6 3d 88 02 50 ff a9 48 ce 4a e1 16 87 ad 24 b3 4c 6b 9f 06 0a b8 d5 96 b2 d2 3f a7 a2 b1 5b be f6 e6 5e 94 70 ea 13 62 e8 34 1c 0e 59 f8 b1 c3 8a 3a 1d 8e 82 7c 41 e1 64 f6 a6 05 83 f1 fa 62 d2 bb ed f8 3b e4 87 5f c9 ea 49 e3 bf 7d ea 2e bd e6 57 e7 bb 21 dd af e7 af 12 60 ef 4f 1b 42 f1 4f 60 f1 57 2a f2 ac d4 b2 4e 5a 15 83 e7 71 d4 bd 4b 73 ea 72 f0 95 7f aa 7b 92 46 72 cd ef 13 4d 79 bf 22 31 29 00 e8 95 92 ff 81 5d 5e 74 0b 71 fa 0a 54 1f 09 55 84 68 d1 9d 24 5b 0e d3 62 a2 01 f6 80 9a 0d ec 8c cd a6 20 36 5f e7 0f 67 cc 5d fa 47 14 9e 80 96 e3 d6 ad 5a 65 e6 0c 74 a8 21 db da 6d b0 17 f2 f2 fb 03 9a bb b2 64 e7 48 41 12 c9 bb db b9 31 bf 8b 5c 4c 84 c8 b9 2f 9b 8f 5e de b5 5e ee 7c 05 2d c9 82 e5 5d c9 21 fe 93 d4 a2 2b cb 89 f9 bf 8f 7a 7f 98 95 b2 49 31 a1 67 4a 81 4c de 81 76 28 14 e9 69 2d 1d 16 ee 91 0f 63 89 a0 e5 1f f8 ed 82 7f 5c 2e b7 2a 6e c0 ce b4 36 84 c3 d7 9d 50 ec 5f 2f 06 29 f4 5c 9b f8 46 0c 83 be a5 46 15 53 2c f9 04 49 ba 87 d8 dd 29 fb fe b9 95 f8 23 45 cf c9 47 c8 97 7b d1 2f 17 0e 9b 41 45 c2 d7 82 26 94 e4 a0 81 fd 67 63 79 6b b6 1d a5 6b a9 9c ff 51 13 b9 19 24 87 a9 46 2e e7 22 1e d4 7a 0e 4f db c0 9d 37 5f e9 c0 f8 ee 2e cd b8 0d 02 ce da 20 ce 87 11 28 69 28 c6 dd 40 e0 10 60 b3 bc 6d ef c2 04 f8 6a 7f ba 29 55 d2 63 3b 92 45 c0 b6 8f e2 24 e5 07 9b ca be 24 01 d9 51 50 d7 a9 00 a8 73 c6 78 71 4b 36 50 f5 6b 6d 92 3f b6 d0 3a 1e 15 05 38 f4 98 00 48 27 ac d5 3f d3 11 f7 3d 9d b6 aa 3d 0f 27 94 dd 1c 6b f1 30 c6 a8 44 8a 06 b6 dc a2 27 ef 88 b2 4b 82 bf 52 1c d6 93 73 e3 26 a3 01 7b 05 94 77 5e 51 1c c3 d1 1f 01 07 99 75 d3 7a 13 b9 0f 72 ec 0b 05 8e 38 be 77 9f e5 03 a8 17 ac 45 65 a8 0c b7 78 0c 2f 85 45 d3 7d 59 9c 2b 63 8f 75 33 7c 6b 18 f1 47 8f 45 e8 db f3 eb 01 c9 f6 b6 a3 b3 10 84 0d ed c3 dd 2e bf 91 3f 5a c4 75 cf bb be 89 75 33 5a 25 d6 85 ce 3a 86 37 85 4f d2 73 69 81 82 21 c4 bb b5 44 25 e8 9d 10 93 b4 0c a3 98 22 0d 68 68 bf ad 45 aa 38 8a 63 42 0f e0 c6 cc f3 16 3c 15 b2 29 fc 38 34 c9 4f 70 55 48 1e f8 30 05 8b 6b bb 35 4a e8 01 45 60 74 82 23 86 a8 d0 1a 11 63 82 50 a3 08 df 77 78 07 47 99 6c 0c b7 af 82 aa ea 1f 08 70 b1 b7 62 89 a3 d0 73 fc 08 a4 f4 d6 dd 51 20 c8 09 60 b2 c1 63 27 db 20 ad 17 a5 f0 8c 19 65 09 7b 57 ba 80 15 93 d0 17 2a 38 f3 76 0a 6e d8 09 e1 78 2f e9 17 fb 8a 02 4b 6a 35 bc 97 62 b0 24 e2 33 e9 aa ba cb 34 c5 38 bd 55 fc aa 0e a0 f8 d8 8d 07 9c c2 75 9e bd 6d eb 27 6e e6 16 7b 82 24 af 53 fd 1d 18 af 3d 50 82 79 2a 88 f7 f4 03 a8 ee b2 7a a4 ec 79 65 e1 9a 50 34 f5 3c 63 a6 10 c2 61 f1 c9 5f 2c 22 39 ee 20 7f 1b f2 ef 44 df 98 16 7c cd 0c 87 37 23 aa 33 bf fe eb 45 2f c8 fb f4 fe 87 a9 32 53 29 88 4d 7c fb b7 5a 6c 5e 38 34 31 2f e5 fa a5 12 71 aa 4c 7d 58 28 d2 35 21 ce 1a c8 72 15 7b f4 c5 b5 44 60 b0 2b be 49 c6 c6 8a 3b dc 0b 9a 82 9d 7c 80 3a b9 ad 58 a1 c5 97 cf 0f 25 69 92 fe cb 78 7f fa ce d3 89 a6 98 36 c8 15 71 74 8c 88 7c 95 84 1f 17 dd 8f 74 6e 9d c6 9f f7 b5 05 36 8d 49 5b a5 31 39 88 87 9b 94 fc 55 38 62 5e 96 d2 53 08 78 0b 41 31 b9 17 c8 9e b2 ac cc c1 48 3b 5d 1d 5a d8 46 d7 be 4f 9e 74 7a bb 93 80 11 b8 aa 5e 31 e9 54 09 71 6e 3d 4d 80 96 50 e4 bb 00 6a e5 3f 11 ef 6f c8 02 fd 56 3c 18 92 24 95 f4 51 89 d0 32 19 c8 68 d8 ee e0 ba 35 33 9a 77 98 49 b2 e5 5f 70 5f 5e 07 7b 93 59 75 80 9b e3 dc b0 12 2f 54 5b 1c 26 9f ea 25 35 61 58 2c 8e 9c fe fd d0 65 ec e2 1a 03 90 14 e0 ae 06 6b
+
+Packet 175:
+  Time: 2025-07-04 20:40:38.016
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 198 bytes
+  Ports: 53 -> 58126
+  Payload Length: 178 bytes
+  Payload (ASCII): .5......0f...........mobile.events.data.microsoft.com..............w.'.mobile.events.data.trafficmanager.net..>.......;.).onedscolprdeus18.eastus.cloudapp.azure.).q...........*I.
+  Payload (HEX): 00 35 e3 0e 00 b2 b9 b6 30 66 81 80 00 01 00 03 00 00 00 00 06 6d 6f 62 69 6c 65 06 65 76 65 6e 74 73 04 64 61 74 61 09 6d 69 63 72 6f 73 6f 66 74 03 63 6f 6d 00 00 01 00 01 c0 0c 00 05 00 01 00 00 00 77 00 27 06 6d 6f 62 69 6c 65 06 65 76 65 6e 74 73 04 64 61 74 61 0e 74 72 61 66 66 69 63 6d 61 6e 61 67 65 72 03 6e 65 74 00 c0 3e 00 05 00 01 00 00 00 3b 00 29 10 6f 6e 65 64 73 63 6f 6c 70 72 64 65 75 73 31 38 06 65 61 73 74 75 73 08 63 6c 6f 75 64 61 70 70 05 61 7a 75 72 65 c0 29 c0 71 00 01 00 01 00 00 00 09 00 04 14 2a 49 1e
+
+Packet 176:
+  Time: 2025-07-04 20:40:38.093
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.90
+  Destination: 224.0.0.251
+  Length: 71 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 51 bytes
+  Payload (ASCII): .....3...............DOMINIC._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 33 99 c0 00 00 00 00 00 01 00 00 00 00 00 00 07 44 4f 4d 49 4e 49 43 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 00 01
+
+Packet 177:
+  Time: 2025-07-04 20:40:38.118
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.237.184
+  Destination: 224.0.0.251
+  Length: 422 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 402 bytes
+  Payload (ASCII): ......%..............ivins._dosvc._tcp.local..!.....x.........ivins.local............<.P=65280.SH00=FtvgCpDV8wR98jng.SH01=KZsbHiGFpqhIjedk.SH02=M98QRGNVAjuuqdnG.SH03=NI8P8NhaBJYN1NBC.SH04=OLK9+ZxCX9PRWpGg.SH05=S4BLWMhnXWYkMdyq.SH06=TR0v7qnPg2par2fS.SH07=fj7wdNujbOoWqX9L.SH08=gjzjswSlWQoJKEt4.SH09=k8fe0qYv++tZZhop.SH0a=oooM8FJi/KDNl8hJ.SH0b=2Ks6W2G74+UUZbem.SH0c=8L8aCnjQicXE1Kul.SH0d=8YpEO3svCgEvtZgK
+  Payload (HEX): 14 e9 14 e9 01 92 25 8a 00 00 80 00 00 00 00 02 00 00 00 00 05 69 76 69 6e 73 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 21 80 01 00 00 00 78 00 13 00 00 00 00 1e 00 05 69 76 69 6e 73 05 6c 6f 63 61 6c 00 c0 0c 00 10 80 01 00 00 11 94 01 3c 07 50 3d 36 35 32 38 30 15 53 48 30 30 3d 46 74 76 67 43 70 44 56 38 77 52 39 38 6a 6e 67 15 53 48 30 31 3d 4b 5a 73 62 48 69 47 46 70 71 68 49 6a 65 64 6b 15 53 48 30 32 3d 4d 39 38 51 52 47 4e 56 41 6a 75 75 71 64 6e 47 15 53 48 30 33 3d 4e 49 38 50 38 4e 68 61 42 4a 59 4e 31 4e 42 43 15 53 48 30 34 3d 4f 4c 4b 39 2b 5a 78 43 58 39 50 52 57 70 47 67 15 53 48 30 35 3d 53 34 42 4c 57 4d 68 6e 58 57 59 6b 4d 64 79 71 15 53 48 30 36 3d 54 52 30 76 37 71 6e 50 67 32 70 61 72 32 66 53 15 53 48 30 37 3d 66 6a 37 77 64 4e 75 6a 62 4f 6f 57 71 58 39 4c 15 53 48 30 38 3d 67 6a 7a 6a 73 77 53 6c 57 51 6f 4a 4b 45 74 34 15 53 48 30 39 3d 6b 38 66 65 30 71 59 76 2b 2b 74 5a 5a 68 6f 70 15 53 48 30 61 3d 6f 6f 6f 4d 38 46 4a 69 2f 4b 44 4e 6c 38 68 4a 15 53 48 30 62 3d 32 4b 73 36 57 32 47 37 34 2b 55 55 5a 62 65 6d 15 53 48 30 63 3d 38 4c 38 61 43 6e 6a 51 69 63 58 45 31 4b 75 6c 15 53 48 30 64 3d 38 59 70 45 4f 33 73 76 43 67 45 76 74 5a 67 4b
+
+Packet 178:
+  Time: 2025-07-04 20:40:38.176
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.230.39
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 179:
+  Time: 2025-07-04 20:40:38.202
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.226.81
+  Destination: 239.255.255.250
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 fa 04 ef ff ff fa
+
+Packet 180:
+  Time: 2025-07-04 20:40:38.274
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 162.159.61.3
+  Length: 1278 bytes
+  Ports: 57624 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): ......~.........hB.....D.x.^/.9....[O....V...U;M..QN!#.c.K..}.|..@..+...[..z.F.o...u..K......{....o...x...R...5$j.c.`+......~....J..2.t.s...oBo.......8.2.'......],..R..@..Dw..s2H%..[.rc..!....i...H._%.?......p_..~].o.....@...4...}........ni.z.\..0.Q.jo:^!<7|.?...\lx.T\....NT.S.....%.u.:9R...9"A.{.tj.nsx......X...;v.#.T>...q..U....5../..ZOx....w.H....o~.5.z.......D...|.:)..?....|@T'.C4....c...t.)..YC.......k5r...$..%.. .....O.v..L.....?....._...9FR.M"h.*....&.y..7>....dc.H+....a.<.....t..}.(..{...7Kj..r..*xL..q...y.....T.S.k.ph../.~.....h$.\e1t..8...P...........U...j...:.Wr......A&...dH...[..D..Z...  .8r-9...y/......sb.iE}...[./.c.\..(.sw$A~..._j8-W.G..O.H.B..?5j..q....c.g..r..{h..|.bO....&.r.JA...H.Y[a.'.`ma.F...|....<....!.#..iS..m..KVU..8...jJ..Q.DT..o"o..i{tE.....`V.6m10.)I.....W..N..._..U.{ES.......c....I.Y..<Wmd.^.^\..*...............".....u... ..Q..)N;j.t)_.......rj.=&.3.V8.X....b..6.....CZ..I.!I.L!.g..V ..-.c.....z...L.y.'..-....y.Y.P._....X...d..7VW~Lg.G|......R.\..kOy|.../..Z.H!.T-..tA......]n.Gt!z..k".#z....FO.b........f5.5C...3t.4T..(.../....4.*Owu.^-..~..uG.Dt.M.U.e...i..EQ..1.........Y.../......s.g.:;.tpv...;Up..jr.u.f..}.}.....S....[Nd..8.F.)..U..\$O..O...;..}...!G...M..0....i.
+  Payload (HEX): e1 18 01 bb 04 ea 7e ad c7 00 00 00 01 08 1c ef 68 42 e9 96 06 c9 00 00 44 d0 78 94 5e 2f f2 39 f7 d9 18 cc 5b 4f b6 aa d7 1c 56 9a 87 1b 55 3b 4d f0 8b 51 4e 21 23 12 63 ef 4b 05 11 7d ed 7c c4 fb 40 04 ae 2b 1e a9 fa 5b d8 7f 7a 01 46 9e 6f ad 1a e8 9f 75 0d ed 4b 85 07 fd eb cb bf 84 7b a6 7f b0 e6 6f db e0 c4 78 10 b8 a0 52 f8 df 2e 35 24 6a b4 63 ac 60 2b bf f8 08 1a 07 06 7e e2 fb a7 b6 4a 99 8d 32 c8 74 e0 a3 73 8a ef c6 6f 42 6f 88 9c b4 8f f8 f3 9c fd 38 bc 32 89 27 ff 1a bf 2e 1d d8 5d 2c c1 bf 52 8c e9 40 f6 09 44 77 e0 c9 73 32 48 25 e7 e2 5b d2 b0 72 63 a6 1b 21 b0 1f d7 fb 69 0f 80 2e 48 d9 5f 25 f1 aa 3f d6 ee fb de 83 d7 e7 70 5f 83 c2 7e 5d ec 6f 93 fe c5 0a c9 40 fc 8f 10 34 a5 ed f0 7d b5 a3 01 e6 0b 9f 9f cd 6e 69 17 7a 05 5c e3 c0 30 06 51 10 6a 6f 3a 5e 21 3c 37 7c 07 3f 91 ed b3 5c 6c 78 04 54 5c e7 df fa 09 4e 54 13 53 c2 cd 2e dd 17 25 df 75 b1 3a 39 52 be e1 e3 39 22 41 a3 7b 1d 74 6a 0a 6e 73 78 b7 c3 d3 19 84 f2 58 e4 8a 7f fd 3b 76 f4 23 82 54 3e f9 8c c9 71 a7 9b 55 91 d4 df 9d e3 35 0f 1c 2f 0a 8e 5a 4f 78 c4 ab 1a 00 cf 77 ca 48 9f ce 0b 2e 6f 7e aa 35 c3 7a 9f 1f 07 ef 04 ea de 44 f1 f8 03 7c 93 3a 29 b3 fe 3f dd c3 9b 18 ab 7c 40 54 27 dd 43 34 12 94 1c b7 63 1a 85 89 74 0f 29 a8 1b 59 43 9e a2 1a d0 fe 12 a0 6b 35 72 1d 19 e0 24 9f 82 25 99 f3 20 b7 cc a4 b9 91 8b 4f c2 76 a3 91 4c 99 d4 d9 ec 0b 3f d1 88 d1 c7 08 0a 5f c2 cb 9a ad 39 46 52 ec 4d 22 68 8c 2a 10 0a 83 03 26 ad 79 a3 ff 37 3e 08 be 1c e9 a0 94 64 63 c9 48 2b 0a 86 be 82 61 09 3c b3 90 a6 d0 cf 74 b9 a9 7d 12 28 06 c0 7b bb be fa 37 4b 6a dd a5 ce 72 a2 8b 2a 78 4c 8e fe 71 12 f6 ba 79 b4 d5 e7 c2 03 54 c9 53 d6 6b cd 70 68 86 1b 2f 0a 7e 9d 09 a2 ae 1b 68 24 03 5c 65 31 74 d2 af d1 ba 38 b6 fa eb 50 0b fb d6 0a 96 f3 12 e3 ce 90 af bc 55 00 d3 c6 6a e9 fd bf 3a c6 57 72 d0 d9 c8 1d bb 85 41 26 db b0 82 f9 64 48 9a 9a bf 5b 99 fd 44 c2 88 9f 5a ef 16 82 20 20 83 38 72 2d 39 c9 02 d3 79 2f a6 e3 c1 2e 8a b7 73 62 de 69 45 7d 87 93 9d 5b 2e 2f e3 63 13 5c 00 99 28 c1 73 77 24 41 7e 13 c9 b6 c2 5f 6a 38 2d 57 dc 47 8a d5 4f e0 ae 48 ef 42 ab 1f 3f 35 6a b0 b9 71 e6 17 10 f1 63 b4 67 be 87 72 e3 9a fd 7b 68 b7 e1 7c e9 62 4f 7f b5 dc 09 26 86 72 b0 4a 41 8d df 8e a1 48 be 59 5b 61 d4 27 d0 a2 60 6d 61 8c 46 a4 8e f2 7c 04 c5 07 a3 3c c0 f9 b2 ca 21 85 23 af b7 69 53 a0 e8 6d bf a8 4b 56 55 94 16 38 19 94 f6 6a 4a 7f f1 51 16 44 54 ce 8e 9f 6f 22 6f 15 c3 69 7b 74 45 08 c1 b2 f8 f8 60 56 15 36 6d 31 30 d5 29 49 05 c5 08 a7 00 57 1a 0f 4e cc dc c4 83 5f df ce 55 cf 7b 45 53 ee 9a 19 fa 12 b4 e1 d3 63 be 11 d9 b4 e6 49 ae 59 09 bd 3c 57 6d 64 92 5e 07 5e 5c fa d3 2a 01 d2 1e ca 98 a7 03 89 d8 ed 0a fd df 9d ff 19 9c 22 ef 01 17 8b 7f 75 81 0c cc 20 0f f7 51 14 de 29 4e 3b 6a df 74 29 5f 85 a1 b1 96 ae da e2 af 72 6a fe 3d 26 ae 33 b2 56 38 f1 58 8b bc 1e ff 62 15 e4 36 c1 d8 0f eb d9 43 5a 13 c5 49 92 21 49 e1 bb 4c 21 d4 b0 67 0b 97 56 20 b7 16 2d a2 63 b9 90 fd fe 9a 7a bd d4 93 de 4c 0c 79 cf 27 c5 1f 2d f8 b9 a2 cb bd 79 ce 59 f2 50 f3 9f ba 5f f0 10 c5 c8 58 0e c1 e4 bb 64 8b 8b 37 56 57 7e 4c 67 b1 47 7c 8b 1a a7 1a 01 bb 52 c1 5c bf fd 6b 4f 79 7c ab 9d d9 2f c6 eb 5a ee 48 21 8e 54 2d fd 8f 74 41 9f 8e 09 03 94 a1 5d 6e f0 47 74 21 7a f6 83 6b 22 f5 23 7a a5 b7 16 04 46 4f 9f 62 9e db 2e c5 16 f9 00 1c 66 35 e8 35 43 f1 d7 f7 33 74 cc 8a 34 54 9d fd 28 d4 8f 94 de 2f b3 ff 81 bb 34 af 2a 4f 77 75 a0 5e 2d 95 be 7e db d9 75 47 f9 44 74 06 4d 14 55 0a 65 9a ff b7 69 c6 cc bf 45 51 cf c1 31 04 7f b1 bf 97 85 a9 a9 0f 59 94 af d6 2f c0 0c 14 bd 0f a5 73 d1 9a 67 8b 3a 3b b5 74 70 76 82 e6 18 3b 55 70 a7 ba 6a 72 d2 75 8d 66 ac 88 7d a8 7d 15 05 c2 8b fd b7 53 a1 9a d4 f2 5b 4e 64 ab a3 38 bc 46 0b 29 c8 04 55 8f b6 5c 24 4f ef c0 4f fc da c6 3b da dc b9 7d 9f d8 f2 21 47 a9 a8 97 4d 82 90 30 9b 8f ba 2e 69 c1
+
+Packet 181:
+  Time: 2025-07-04 20:40:38.381
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.90
+  Destination: 224.0.0.251
+  Length: 683 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 663 bytes
+  Payload (ASCII): .......4............._dosvc._tcp.local............DOMINIC._dosvc._tcp.local..DOMINIC._dosvc._tcp.local..!.....x.........DOMINIC.local..D...........P=65280.SH00=OEws3v8+XIaPest6.SH01=S+YAKS3d9XPytmW1.SH02=TR0v7qnPg2par2fS.SH03=TvjFOBDxv1pd/LoP.SH04=ZsrTyBxul0ZSaGBK.SH05=aZ1erkojQ7YOeOVL.SH06=fVGBT7gm9kKbzL84.SH07=f2nwFUFlwo/1tuxM.SH08=gjzjswSlWQoJKEt4.SH09=g1ColCcDCt5adO59.SH0a=in9nhOphjBJnvbiN.SH0b=oooM8FJi/KDNl8hJ.SH0c=pmZuI7347GPJHr7f.SH0d=tMjeFypRnoTRUqz2.SH0e=2Ks6W2G74+UUZbem.SH0f=2sdOJsseTiOUntxm.SH10=8YpEO3svCgEvtZgK.SH11=9ekRT/YntHLHMXQo.DOMINIC.local........<.....Z.........<....h.d...."...A..........<....h.d..y.{..J.........<............][d
+  Payload (HEX): 14 e9 14 e9 02 97 1c 34 00 00 84 00 00 00 00 01 00 00 00 06 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 0c 80 01 00 00 11 94 00 1b 07 44 4f 4d 49 4e 49 43 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 07 44 4f 4d 49 4e 49 43 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 21 80 01 00 00 00 78 00 15 00 00 00 00 1e 00 07 44 4f 4d 49 4e 49 43 05 6c 6f 63 61 6c 00 c0 44 00 10 80 01 00 00 11 94 01 94 07 50 3d 36 35 32 38 30 15 53 48 30 30 3d 4f 45 77 73 33 76 38 2b 58 49 61 50 65 73 74 36 15 53 48 30 31 3d 53 2b 59 41 4b 53 33 64 39 58 50 79 74 6d 57 31 15 53 48 30 32 3d 54 52 30 76 37 71 6e 50 67 32 70 61 72 32 66 53 15 53 48 30 33 3d 54 76 6a 46 4f 42 44 78 76 31 70 64 2f 4c 6f 50 15 53 48 30 34 3d 5a 73 72 54 79 42 78 75 6c 30 5a 53 61 47 42 4b 15 53 48 30 35 3d 61 5a 31 65 72 6b 6f 6a 51 37 59 4f 65 4f 56 4c 15 53 48 30 36 3d 66 56 47 42 54 37 67 6d 39 6b 4b 62 7a 4c 38 34 15 53 48 30 37 3d 66 32 6e 77 46 55 46 6c 77 6f 2f 31 74 75 78 4d 15 53 48 30 38 3d 67 6a 7a 6a 73 77 53 6c 57 51 6f 4a 4b 45 74 34 15 53 48 30 39 3d 67 31 43 6f 6c 43 63 44 43 74 35 61 64 4f 35 39 15 53 48 30 61 3d 69 6e 39 6e 68 4f 70 68 6a 42 4a 6e 76 62 69 4e 15 53 48 30 62 3d 6f 6f 6f 4d 38 46 4a 69 2f 4b 44 4e 6c 38 68 4a 15 53 48 30 63 3d 70 6d 5a 75 49 37 33 34 37 47 50 4a 48 72 37 66 15 53 48 30 64 3d 74 4d 6a 65 46 79 70 52 6e 6f 54 52 55 71 7a 32 15 53 48 30 65 3d 32 4b 73 36 57 32 47 37 34 2b 55 55 5a 62 65 6d 15 53 48 30 66 3d 32 73 64 4f 4a 73 73 65 54 69 4f 55 6e 74 78 6d 15 53 48 31 30 3d 38 59 70 45 4f 33 73 76 43 67 45 76 74 5a 67 4b 15 53 48 31 31 3d 39 65 6b 52 54 2f 59 6e 74 48 4c 48 4d 58 51 6f 07 44 4f 4d 49 4e 49 43 05 6c 6f 63 61 6c 00 00 01 80 01 00 00 00 3c 00 04 ac 10 eb 5a c2 1e 00 1c 80 01 00 00 00 3c 00 10 fd f5 68 d2 b6 64 fd 87 cb f6 22 ef d1 10 41 d0 c2 1e 00 1c 80 01 00 00 00 3c 00 10 fd f5 68 d2 b6 64 fd 87 79 a0 7b d4 f0 a4 ab 4a c2 1e 00 1c 80 01 00 00 00 3c 00 10 fe 80 00 00 00 00 00 00 f2 89 bc 8f 14 5d 5b 64
+
+Packet 182:
+  Time: 2025-07-04 20:40:38.411
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.90
+  Destination: 224.0.0.251
+  Length: 157 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 137 bytes
+  Payload (ASCII): ......G..............DOMINIC.local........x....h.d...."...A..........x....h.d..y.{..J.........x............][d.../.....x......@...
+  Payload (HEX): 14 e9 14 e9 00 89 47 17 00 00 84 00 00 00 00 03 00 00 00 01 07 44 4f 4d 49 4e 49 43 05 6c 6f 63 61 6c 00 00 1c 80 01 00 00 00 78 00 10 fd f5 68 d2 b6 64 fd 87 cb f6 22 ef d1 10 41 d0 c0 0c 00 1c 80 01 00 00 00 78 00 10 fd f5 68 d2 b6 64 fd 87 79 a0 7b d4 f0 a4 ab 4a c0 0c 00 1c 80 01 00 00 00 78 00 10 fe 80 00 00 00 00 00 00 f2 89 bc 8f 14 5d 5b 64 c0 0c 00 2f 80 01 00 00 00 78 00 08 c0 0c 00 04 40 00 00 08
+
+Packet 183:
+  Time: 2025-07-04 20:40:38.421
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.90
+  Destination: 224.0.0.251
+  Length: 627 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 607 bytes
+  Payload (ASCII): ....._..............DOMINIC._dosvc._tcp.local..!.....x.........DOMINIC.local..............P=65280.SH00=OEws3v8+XIaPest6.SH01=S+YAKS3d9XPytmW1.SH02=TR0v7qnPg2par2fS.SH03=TvjFOBDxv1pd/LoP.SH04=ZsrTyBxul0ZSaGBK.SH05=aZ1erkojQ7YOeOVL.SH06=fVGBT7gm9kKbzL84.SH07=f2nwFUFlwo/1tuxM.SH08=gjzjswSlWQoJKEt4.SH09=g1ColCcDCt5adO59.SH0a=in9nhOphjBJnvbiN.SH0b=oooM8FJi/KDNl8hJ.SH0c=pmZuI7347GPJHr7f.SH0d=tMjeFypRnoTRUqz2.SH0e=2Ks6W2G74+UUZbem.SH0f=2sdOJsseTiOUntxm.SH10=8YpEO3svCgEvtZgK.SH11=9ekRT/YntHLHMXQo.DOMINIC.local........<.....Z.........<....h.d...."...A..........<....h.d..y.{..J.........<............][d
+  Payload (HEX): 14 e9 14 e9 02 5f e8 9c 00 00 84 00 00 00 00 01 00 00 00 05 07 44 4f 4d 49 4e 49 43 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 21 80 01 00 00 00 78 00 15 00 00 00 00 1e 00 07 44 4f 4d 49 4e 49 43 05 6c 6f 63 61 6c 00 c0 0c 00 10 80 01 00 00 11 94 01 94 07 50 3d 36 35 32 38 30 15 53 48 30 30 3d 4f 45 77 73 33 76 38 2b 58 49 61 50 65 73 74 36 15 53 48 30 31 3d 53 2b 59 41 4b 53 33 64 39 58 50 79 74 6d 57 31 15 53 48 30 32 3d 54 52 30 76 37 71 6e 50 67 32 70 61 72 32 66 53 15 53 48 30 33 3d 54 76 6a 46 4f 42 44 78 76 31 70 64 2f 4c 6f 50 15 53 48 30 34 3d 5a 73 72 54 79 42 78 75 6c 30 5a 53 61 47 42 4b 15 53 48 30 35 3d 61 5a 31 65 72 6b 6f 6a 51 37 59 4f 65 4f 56 4c 15 53 48 30 36 3d 66 56 47 42 54 37 67 6d 39 6b 4b 62 7a 4c 38 34 15 53 48 30 37 3d 66 32 6e 77 46 55 46 6c 77 6f 2f 31 74 75 78 4d 15 53 48 30 38 3d 67 6a 7a 6a 73 77 53 6c 57 51 6f 4a 4b 45 74 34 15 53 48 30 39 3d 67 31 43 6f 6c 43 63 44 43 74 35 61 64 4f 35 39 15 53 48 30 61 3d 69 6e 39 6e 68 4f 70 68 6a 42 4a 6e 76 62 69 4e 15 53 48 30 62 3d 6f 6f 6f 4d 38 46 4a 69 2f 4b 44 4e 6c 38 68 4a 15 53 48 30 63 3d 70 6d 5a 75 49 37 33 34 37 47 50 4a 48 72 37 66 15 53 48 30 64 3d 74 4d 6a 65 46 79 70 52 6e 6f 54 52 55 71 7a 32 15 53 48 30 65 3d 32 4b 73 36 57 32 47 37 34 2b 55 55 5a 62 65 6d 15 53 48 30 66 3d 32 73 64 4f 4a 73 73 65 54 69 4f 55 6e 74 78 6d 15 53 48 31 30 3d 38 59 70 45 4f 33 73 76 43 67 45 76 74 5a 67 4b 15 53 48 31 31 3d 39 65 6b 52 54 2f 59 6e 74 48 4c 48 4d 58 51 6f 07 44 4f 4d 49 4e 49 43 05 6c 6f 63 61 6c 00 00 01 80 01 00 00 00 3c 00 04 ac 10 eb 5a c1 e6 00 1c 80 01 00 00 00 3c 00 10 fd f5 68 d2 b6 64 fd 87 cb f6 22 ef d1 10 41 d0 c1 e6 00 1c 80 01 00 00 00 3c 00 10 fd f5 68 d2 b6 64 fd 87 79 a0 7b d4 f0 a4 ab 4a c1 e6 00 1c 80 01 00 00 00 3c 00 10 fe 80 00 00 00 00 00 00 f2 89 bc 8f 14 5d 5b 64
+
+Packet 184:
+  Time: 2025-07-04 20:40:38.478
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 172.64.41.3
+  Length: 1278 bytes
+  Ports: 57711 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): .o............wH....;3..D.....r.,....f....y..Z....nC[.`.3^_'#..36w.UC.3_./....r..x.0<.Bd....k..-.L)..v.!.1m...&^.A..~e....C.......>Qp...5..%..a.pv.]....$.9..~.x/\e...AQ.6.3.=.#*.[..D..c........~}..O.L\.}....o].....U...I..r..2;{[..U...i~.*yc............_.L...yc....p.o..Q.J.G..2.Jel<.V.P,..#mLS...M.J...[.}G....C..~....F}%o./.....e...;|.r.O.3\w/k.....M.......S.JI............4%.o^N=-x.l.;*v........).^.q..C.'o.2.+(...J.....1...m....:2X...l....mzO..N.sj%,...C..k.@.E`r..........V.E..g..-.w....A...,.,}8.]..h....F.@.Q\L......}[.`.q.$..zm%T..Hq.llm.D...I9X..WC..82.......yh..X.......V.......2.z.........a.....1`.].:O.'...J.C.$...../."..N.a..wFc0.xh.....e..q.n..^.s.6..?0.v...?[.q.$L..<.E..Z....D^...0%......_O.0.....\.eX.k.-X..&..j...'.......i)..}D(.GSJ.%..QA.}rC.e..h0(..>h........n.14.....a>.[)..D...W.<...s....}.V+SOL....)Q|l.,B.}..Q.{)......w.._..~&....K@.>}DM>.....c../....[Tx..O8.G9..l...'x.+`..].<..4.~...E..$......X....m!.F..4....Ce...O....^.J..W.&....A........MEEb..iP..yn..}.2...@.8I)..P.H.n.+^....T^...6(8. :..Q......<k+..5Uo......\?..[.E...4M...X1.c....#...]'....V...Q.....m..D...S).l.......|2......._...[..W.....7..ox..,>.V.'?z.N.ed.....g...]kv.-...q........Jq.G.`E...S.p...D..8
+  Payload (HEX): e1 6f 01 bb 04 ea 1e e7 c1 00 00 00 01 08 77 48 8d d5 c0 b4 3b 33 00 00 44 d0 d5 c9 e9 86 fe 72 12 2c 9b 08 e8 15 66 c8 b5 1a b3 d5 79 bd d7 5a a5 b4 fb 92 6e 43 5b 90 60 15 33 5e 5f 27 23 fb b6 33 36 77 c4 55 43 fa 33 5f 08 2f 9c a0 f5 15 72 91 9c 78 a1 30 3c 8f 42 64 b5 05 f8 b2 6b 9d 91 2d f6 4c 29 15 10 76 d4 21 a1 31 6d 97 ec e2 26 5e 0d 41 86 ed 7e 65 0a b8 f5 d6 43 ec a0 0d c4 00 c0 7f ba 3e 51 70 b6 f5 e8 35 9b ae 25 b7 a6 61 f6 70 76 da 8d 5d 87 b8 86 b0 24 a0 39 9d c0 7e 90 78 2f 5c 65 cc 14 87 41 51 a7 36 bb 33 88 3d 1b 23 2a 93 5b 85 db a9 44 bc 83 63 d2 11 e7 bf 97 8e b6 dc a6 c0 98 7e 7d f8 b2 4f 8f 4c 5c 9b 7d 1c bb b8 d4 83 6f 5d a1 1d 00 9b dc a7 55 af 0b 92 49 94 84 72 e2 e0 32 3b 7b 5b b1 ca 55 a1 0d 0c 69 7e 8a 2a 79 63 09 e8 0a b5 95 fb 0c 9f d7 06 8f cc 5f b4 4c 93 9e 8e 79 63 14 a6 94 d8 70 8d 6f aa b0 51 e7 4a d2 47 f9 fa 32 bb 4a 65 6c 3c 87 56 b0 50 2c d0 c6 23 6d 4c 53 07 95 f1 4d d0 4a e3 02 10 5b 16 7d 47 1d 91 87 17 43 99 c7 7e 9d ea d4 93 c6 8d 46 7d 25 6f 95 2f 0d 9d c9 1d da 65 d8 fd 98 3b 7c d6 72 db b7 4f dd 33 5c 77 2f 6b dc b5 fa 14 8c c8 4d 01 bf d5 0a 8c a7 14 53 02 4a 49 ea c1 1c 93 85 84 cc 85 92 af f1 df 92 d5 34 25 14 6f 5e 4e 3d 2d 78 11 6c c1 3b 2a 76 b2 15 c3 1d 9e c5 07 ff 29 bf 5e 0e 71 b5 af 43 03 27 6f e5 32 10 2b 28 f3 b7 0b c8 4a df aa f9 9f 87 d6 31 01 01 a2 6d a1 ad 1f cf 3a 32 58 b1 af b0 6c 9c 87 1c ce 6d 7a 4f d0 be e8 4e 07 73 6a 25 2c ba 08 bf 43 c0 a1 6b eb 40 13 45 60 72 cc be 03 93 f9 01 c6 10 d1 a8 1f 18 56 a5 45 93 f0 67 f4 94 2d b3 77 a0 07 88 82 41 16 c2 a6 b1 2c e7 2c 7d 38 1d 5d c5 9e dc ae 68 af ce a2 93 84 46 e6 aa b2 40 d4 51 5c 4c 82 c1 06 7f ad e6 7d 5b c0 60 df 71 92 24 a8 ea a9 7a 6d 25 54 a4 a6 48 71 b9 6c 6c 6d 0b 44 15 cd 0c 49 39 58 0a fb 57 43 a4 18 38 32 f7 09 d3 e6 8e a8 a6 b0 c6 79 68 d1 b0 ad 58 15 c6 80 e2 01 f6 e2 a8 df 56 82 a7 7f 84 2e f3 ed 96 8b 32 11 7a 82 e2 92 0c 94 f4 af de 90 d6 e7 61 0f dc 16 1a 98 31 60 9b 5d e7 3a 4f e3 27 17 2e 86 4a f1 9b 43 19 24 ce cb c0 ef e1 2f 19 22 e8 e2 4e e1 9d 61 07 ec ae 77 46 63 30 f8 78 68 fc e2 ac ef 08 be 65 b0 cd 71 a6 6e 98 0f 5e be 73 cc 36 fc e9 3f 30 ac 76 b3 16 07 3f 5b c6 71 b7 24 4c fe 98 3c da a3 45 ec eb 5a c5 1d 07 06 44 5e 98 b6 e7 30 25 19 be 02 a5 96 ed 5f 4f a5 30 b3 85 c3 0c 1e 5c 1a 65 58 8f 6b d0 2d 58 b2 b9 26 85 ab 6a 80 1f e7 8a 27 82 b6 97 ec d1 e7 de 69 29 d4 04 7d 44 28 a2 47 53 4a c5 25 14 eb 51 41 ee 7d 72 43 a3 65 8a e5 68 30 28 80 ff 3e 68 e6 15 1b 98 8d ff 15 19 6e 99 31 34 01 d1 03 19 ed 61 3e 98 5b 29 18 d4 44 16 ac e8 57 cb 3c ea d8 c1 73 b8 9f cc c1 7d 81 56 2b 53 4f 4c 9b ad a8 04 29 51 7c 6c af 2c 42 a6 7d 96 d5 51 0b 7b 29 85 cf 11 aa f6 f0 77 b7 7f 5f d7 b5 de 7e 26 d8 07 a5 1d 4b 40 d7 3e 7d 44 4d 3e b3 bb 8f a0 bc 63 8a 1d 2f fc a3 c0 a8 5b 54 78 f3 05 4f 38 ac 47 39 7f b0 6c db 1b b7 27 78 a4 2b 60 96 d1 5d 9b 3c 87 14 34 dd 7e d0 15 08 45 dd e8 24 a2 1b ad 10 d2 b9 02 58 0a 9b 08 d4 6d 21 c3 46 19 ed 34 80 03 ed d8 92 43 65 99 8b fa 4f c7 a7 0c b7 e8 5e bc 4a 09 f9 57 cc be 26 02 06 ec dc a5 41 c7 e0 f5 8e a2 df fa bd 4d 45 45 62 a5 d1 8c 69 50 ef 01 79 6e 9f d7 a8 7d f0 bc 32 91 ad ec 40 8d 38 49 29 80 98 50 c6 b9 48 e3 6e 7f 2b 5e 0f a5 80 c2 a8 54 5e 10 bb f7 36 28 38 da 20 3a c3 ae 17 51 af 04 e4 87 ee f6 9d 3c 6b 2b ca fe 35 55 6f b3 a6 7f 0d b1 d8 86 5c 3f d8 9e a9 5b 03 45 e0 81 f0 a3 a1 34 4d fb 9e 12 58 31 a5 63 ec 9d 2e ad de 8f 23 c3 f4 14 5d 27 89 d0 c3 c9 56 f5 ba 1d 51 ce 17 fe 05 d8 6d e5 c7 44 18 0b f1 a3 53 29 9d 6c 1f d3 d0 1e b4 e9 c4 7c 32 86 a6 e4 1f 10 bb e3 aa 5f 95 fc c7 5b bf ce 84 57 da ab c8 92 e7 04 07 37 be aa 6f 78 1b b1 2c 3e 94 56 a8 27 3f 7a e6 4e 88 65 64 8c b1 8f ae db 80 67 0f b2 df 5d 6b 76 e1 2d 00 ea e2 71 b3 97 ad e3 02 f6 b2 d7 4a 71 85 47 81 60 45 16 fe 12 53 b4 70 b2 1b f2 8f 44 e0 a6 e0 a8 38
+
+Packet 185:
+  Time: 2025-07-04 20:40:38.597
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.236.246
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 186:
+  Time: 2025-07-04 20:40:38.607
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.224.142
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 187:
+  Time: 2025-07-04 20:40:38.630
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 69 bytes
+  Ports: 59046 -> 53
+  Payload Length: 49 bytes
+  Payload (ASCII): ..5.1...9...........www.msftconnecttest.com.....
+  Payload (HEX): e6 a6 00 35 00 31 95 9b e0 39 01 00 00 01 00 00 00 00 00 00 03 77 77 77 0f 6d 73 66 74 63 6f 6e 6e 65 63 74 74 65 73 74 03 63 6f 6d 00 00 01 00 01
+
+Packet 188:
+  Time: 2025-07-04 20:40:38.645
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 8.0.8.0
+  Length: 69 bytes
+  Ports: 59046 -> 53
+  Payload Length: 49 bytes
+  Payload (ASCII): ..5.1...9...........www.msftconnecttest.com.....
+  Payload (HEX): e6 a6 00 35 00 31 87 9d e0 39 01 00 00 01 00 00 00 00 00 00 03 77 77 77 0f 6d 73 66 74 63 6f 6e 6e 65 63 74 74 65 73 74 03 63 6f 6d 00 00 01 00 01
+
+Packet 189:
+  Time: 2025-07-04 20:40:38.739
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.233.117
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 190:
+  Time: 2025-07-04 20:40:38.742
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.233.117
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 191:
+  Time: 2025-07-04 20:40:38.755
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.233.117
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 192:
+  Time: 2025-07-04 20:40:38.757
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.233.117
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 193:
+  Time: 2025-07-04 20:40:38.777
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.230.39
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 194:
+  Time: 2025-07-04 20:40:38.819
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.226.81
+  Destination: 239.255.255.250
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 fa 04 ef ff ff fa
+
+Packet 195:
+  Time: 2025-07-04 20:40:38.863
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 213 bytes
+  Ports: 53 -> 59046
+  Payload Length: 193 bytes
+  Payload (ASCII): .5....'.9...........www.msftconnecttest.com..................ncsi-geo.trafficmanager.net..5......Q....www.msftncsi.com.edgesuite.M.^.......+...a1961.g2.akamai.M.............:_..............:_.
+  Payload (HEX): 00 35 e6 a6 00 c1 bf 27 e0 39 81 80 00 01 00 05 00 00 00 00 03 77 77 77 0f 6d 73 66 74 63 6f 6e 6e 65 63 74 74 65 73 74 03 63 6f 6d 00 00 01 00 01 c0 0c 00 05 00 01 00 00 0e 0f 00 1d 08 6e 63 73 69 2d 67 65 6f 0e 74 72 61 66 66 69 63 6d 61 6e 61 67 65 72 03 6e 65 74 00 c0 35 00 05 00 01 00 01 51 7f 00 1d 03 77 77 77 08 6d 73 66 74 6e 63 73 69 03 63 6f 6d 09 65 64 67 65 73 75 69 74 65 c0 4d c0 5e 00 05 00 01 00 00 01 2b 00 12 05 61 31 39 36 31 02 67 32 06 61 6b 61 6d 61 69 c0 4d c0 87 00 01 00 01 00 00 00 13 00 04 17 3a 5f 8a c0 87 00 01 00 01 00 00 00 13 00 04 17 3a 5f 98
+
+Packet 196:
+  Time: 2025-07-04 20:40:38.918
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 1.1.1.1
+  Length: 58 bytes
+  Ports: 61123 -> 53
+  Payload Length: 38 bytes
+  Payload (ASCII): ...5.&S;w............cdn.honey.io.....
+  Payload (HEX): ee c3 00 35 00 26 53 3b 77 1e 01 00 00 01 00 00 00 00 00 00 03 63 64 6e 05 68 6f 6e 65 79 02 69 6f 00 00 01 00 01
+
+Packet 197:
+  Time: 2025-07-04 20:40:38.927
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 8.0.8.0
+  Length: 58 bytes
+  Ports: 61123 -> 53
+  Payload Length: 38 bytes
+  Payload (ASCII): ...5.&E=w............cdn.honey.io.....
+  Payload (HEX): ee c3 00 35 00 26 45 3d 77 1e 01 00 00 01 00 00 00 00 00 00 03 63 64 6e 05 68 6f 6e 65 79 02 69 6f 00 00 01 00 01
+
+Packet 198:
+  Time: 2025-07-04 20:40:38.953
+  Version: IPv4
+  Protocol: UDP
+  Source: 1.1.1.1
+  Destination: 172.16.227.175
+  Length: 74 bytes
+  Ports: 53 -> 61123
+  Payload Length: 54 bytes
+  Payload (ASCII): .5...6q.w............cdn.honey.io..............t.....6
+  Payload (HEX): 00 35 ee c3 00 36 71 09 77 1e 81 80 00 01 00 01 00 00 00 00 03 63 64 6e 05 68 6f 6e 65 79 02 69 6f 00 00 01 00 01 c0 0c 00 01 00 01 00 00 00 74 00 04 82 d3 1e 36
+
+Packet 199:
+  Time: 2025-07-04 20:40:39.008
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.101
+  Destination: 224.0.0.251
+  Length: 65 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 45 bytes
+  Payload (ASCII): .....-.@.............HARIKESH-G369.local.....
+  Payload (HEX): 14 e9 14 e9 00 2d e2 40 00 00 00 00 00 01 00 00 00 00 00 00 0d 48 41 52 49 4b 45 53 48 2d 47 33 36 39 05 6c 6f 63 61 6c 00 00 01 00 01
+
+Packet 200:
+  Time: 2025-07-04 20:40:39.018
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.235.101
+  Destination: 224.0.0.251
+  Length: 65 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 45 bytes
+  Payload (ASCII): .....-.@.............HARIKESH-G369.local.....
+  Payload (HEX): 14 e9 14 e9 00 2d c7 40 00 00 00 00 00 01 00 00 00 00 00 00 0d 48 41 52 49 4b 45 53 48 2d 47 33 36 39 05 6c 6f 63 61 6c 00 00 1c 00 01
+
+Packet 201:
+  Time: 2025-07-04 20:40:39.070
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.239.181
+  Destination: 239.255.255.250
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 fa 04 ef ff ff fa
+
+Packet 202:
+  Time: 2025-07-04 20:40:39.091
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.224.196
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 203:
+  Time: 2025-07-04 20:40:39.198
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 142.250.195.170
+  Length: 1278 bytes
+  Ports: 61604 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): .....2'.........~...7..D.h.).{..'......:.e..<.8.2.S6W...a4.D..#..Xd..p:G.....Hj.{!..[...4.HR.~6.....J.j..Y...~>...>..w..D...3.ny.<........."f..I.K/j!!m.?.]q.....O?.W,.*...;gLa...9\4.>.Zy.z&nY)..AQ.^Z..g.F..6)...^.~...o.b..k...^.b...e.D..s....&..M..Z>c...V.JC...a.../.*...!.T+25(......T/.....`.V8.8..y.N.....-J.T...h.E..XyF}....M.*.8..~.Exc..)[.{DI.+.......E].U.....4..9....62:0.s.8.......V.....T....q{.G.9$2....0..B..q...$t. w....9g.O..#U..v...)s...4.;.v.&.-...+.D{..;......w...LH...x.z%tS. 8{.B..J{[..c&L..[...g..:.u.l.0..&.......VxHv.A.!.u..j"'...A.....}.z.\H.*.s.G}.S.....y.....U.T.F..S.8rL......:c.$...O...^.....y.... (c.f....D.+..d|..;.t<..,.FS......EK.3Wk.=..w.....l.d.4..N....[.}we2.....D.n....f8gz..y....q.Y.J@........o.......G....Q.....3wK.;!...m.,...$.=.2.bx..!.....-....^..dg<.f._..&e..]..o..*.o..w.......x...P@B...AZ.9U...1.v...z&!I..O....6......R..."Ob.....mz.3...7..q.j..3.}..x..zK....fb.m07.-./rF/=....!......%7)9.u..|%.6.z]o..M..R..=....;I.v.R.$[m..;....5Y.6....Z.3.7>.......&..6.8...m...~...p..(...^...Zd...|.\dW..)....i+H;C.#...6.qP.T.#,....Q...p..y....WA.l........._)\7<..*U%[....n..1...=.$.,..6.F....^..:....%..6-,.....8KZt..T..Z...Vn...}.. .a.7w...a..|1!....!...g...
+  Payload (HEX): f0 a4 01 bb 04 ea 32 27 cf 00 00 00 01 08 ac af 1a 7e d1 c0 7f 37 00 00 44 d0 68 0d 29 8c 7b e2 01 27 d4 cb 99 86 af e9 a8 84 e3 3a ab 65 19 bf 3c a5 38 c4 b3 32 e6 ba af 53 36 57 97 b8 19 61 34 8d 44 a6 e5 a9 23 18 f5 58 64 ae db 70 3a 47 e7 99 8c b6 fb ef c4 48 6a f2 7b 21 ba ea b6 5b f5 b3 fe 34 c7 48 52 97 7e 36 16 94 fd e6 c7 4a c8 6a f1 ee 59 9b b4 8a 7e 3e 15 06 d0 3e ed fa 77 dd e6 44 cc 14 14 33 e6 6e 79 80 3c 85 c2 b8 c3 ca 8e cb 8d 10 e9 e9 8b a4 0f 22 66 8e e1 49 8f 4b 2f 6a 21 21 6d d2 3f b0 5d 71 aa 1c 9f a4 ed 8f 96 4f 3f a7 57 2c d2 2a e3 ef c6 3b 67 4c 61 f0 ef b3 dd 39 5c 34 ef 3e 97 5a 79 bf 7a 26 6e 59 29 89 f1 82 41 51 98 5e 5a f5 9e 67 9e 46 10 da 80 36 29 d5 c1 ae 5e 83 7e da 87 8d f5 6f c4 af 62 a7 1c 6b a2 eb 9b 01 5e 9a 62 dd ed 98 be 92 65 ca 44 0e 1e 73 bb cd f7 85 26 14 95 4d ea b9 f8 5a 3e 63 04 d1 b8 f7 56 08 4a 43 8d 06 af 61 ef 88 10 1d 2f 8b 2a fa c0 b4 21 90 54 2b 32 35 28 9c 0b af c2 15 ca 95 54 2f 1e 9c a6 f6 0a 60 97 56 38 f3 38 cb 14 79 ca 4e 80 d7 d7 df e3 2d 4a 00 54 f2 0b bd 68 c2 45 fb 8a 58 79 46 7d 8a fa df eb 4d c4 2a 84 38 10 d0 7e 09 45 78 63 8d e1 29 5b 9d 7b 44 49 ed 2b c2 1c ce 7f 16 0b 88 45 5d 87 55 9f ad dd 8c 82 c4 34 cd 1d 39 aa 8f 04 8f 36 32 3a 30 aa 73 d0 38 d8 9e 03 a2 d6 1a ba db 99 56 1a a4 e2 1c a3 54 a2 0c 19 be 71 7b f3 47 a6 39 24 32 08 81 ff ce 30 bb de 9e 42 ac ef 71 84 93 a2 24 74 b9 20 77 fc c4 e4 dd 39 67 ff 4f f8 f0 23 55 fd af 76 9c bb cb b0 29 73 f4 15 a6 34 a7 3b b7 76 17 26 fa 2d d0 eb 10 2b ef 44 7b fb e7 3b b1 a3 fc e7 a0 2e 14 77 96 d2 7f 4c 48 c4 fe d0 78 0a 7a 25 74 53 f9 20 38 7b cb be 42 9b e9 81 4a 7b 5b 15 fb 63 26 4c a1 19 5b 90 fb 1c 67 9a bd 3a ad 75 cc 6c ca b5 30 bb a2 26 86 fb e8 ef cf f6 d2 56 78 48 76 b6 41 e5 21 94 75 f9 e9 6a 22 27 1d b3 d1 41 a7 a4 10 16 a5 7d 8f 7a 12 5c 48 8d 2a a3 73 00 47 7d f4 53 e0 db 86 de bb 8b ea 79 94 b5 f4 e6 f1 55 f9 54 9c 46 8b 87 53 0a 38 72 4c ff a5 d0 00 f2 17 3a 63 08 24 f7 ae d5 4f 93 c7 ee a0 5e c5 ab 02 f5 a6 e9 79 f1 12 9a fc 20 28 63 cd 66 a5 cb 00 d0 44 8c 2b 82 a5 64 7c 0f bb 3b ab 74 3c a8 8f 2c 95 46 53 1d 13 d5 d9 dc e6 ae 45 4b 88 33 57 6b e9 b7 a2 3d 8c ea a2 77 ba be de e1 13 6c a8 64 da 34 a6 b2 4e 1b a4 7f f3 5b b0 7d 77 65 32 98 05 eb 1d d4 44 0d 6e 84 07 83 8d 66 38 67 7a 83 d8 79 8d b8 8e 8c 71 df 59 d7 4a 40 8a c0 e5 f7 ee 18 b8 a5 6f fa e8 c0 00 bd f0 b3 e9 47 16 d0 99 a6 8b 51 d1 bf 0a 15 c0 e9 33 77 4b 8c 3b 21 12 f9 87 6d b6 2c c2 93 d2 be d3 24 02 3d fc 32 8e 62 78 95 a5 21 fb 94 dc 95 b3 dd 2d 13 f4 e2 f2 5e e7 c3 64 67 3c 93 66 cd a0 5f 1d 8f 26 65 99 be 5d 0c f4 6f b7 87 2a d3 6f cb e9 77 10 f4 f7 ad ae d8 d0 78 94 8c 9a 50 40 42 ca 0b 18 41 5a e1 39 55 1b af a1 31 ab 76 ff ed e8 8e 7a 26 21 49 8b b9 4f 0f 16 18 8a 36 8d ac 90 11 ba af 52 a0 ca e4 22 4f 62 a2 8f e3 d3 c8 6d 7a 95 33 c5 d8 fa 37 bc bb 71 1e 6a 08 13 33 f6 7d ff cf 78 ba b5 7a 4b 06 19 d1 a7 e4 66 62 f2 6d 30 37 f5 2d 8f 2f 72 46 2f 3d 0d 9d 8a ad 21 d9 e5 c1 c4 0c 0e 25 37 29 39 db ba 75 05 ee 9a 7c 25 83 36 cb 7a 5d 6f 88 cd 4d 00 03 52 e0 e1 3d 84 ca f9 dd 3b 49 87 76 c4 52 c0 24 5b 6d 03 81 3b c1 c0 d3 ce 35 59 86 36 91 ef fc 8a 5a 03 33 bb 37 3e e2 d6 9f a4 7f 13 e0 84 26 ad b9 36 ad 38 b1 83 b2 6d d3 eb 9c e9 7e cd 9d 8f fb 70 97 0d 28 a4 9e 91 5e e8 99 e1 9f 9e d1 5a 64 ae 14 a1 7c d1 5c 64 57 ff e5 29 d2 bf b4 b2 17 69 2b 48 3b 43 fc 23 c0 04 f5 36 e8 a6 71 50 eb 54 f1 23 2c 09 b4 b7 ef 51 a8 cf 2e 70 88 01 79 01 c9 0f b4 57 41 0d 6c ce d0 eb 1a 9c 1e d5 e5 f6 5f 29 5c 37 3c 93 df 2a 55 25 5b e1 c4 b4 1b 9a 6e dc 0b 31 ec a5 ca c2 3d ce 24 dd 2c 02 dc 36 d8 86 46 cc 0d f8 1a 5e bf b4 3a 14 f6 80 da 82 25 af fb 36 2d 2c 9f 8d c7 dd e3 38 4b 5a 74 18 a0 54 c8 07 5a fb c0 c8 56 6e 00 9a d4 7d e5 0a 20 a5 61 fb 37 77 a5 c5 fd 61 cb db b2 7c 31 21 2e f4 a0 b2 21 86 99 01 67 01 bd ee
+
+Packet 204:
+  Time: 2025-07-04 20:40:39.260
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.237.184
+  Destination: 224.0.0.251
+  Length: 422 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 402 bytes
+  Payload (ASCII): ......%..............ivins._dosvc._tcp.local..!.....x.........ivins.local............<.P=65280.SH00=FtvgCpDV8wR98jng.SH01=KZsbHiGFpqhIjedk.SH02=M98QRGNVAjuuqdnG.SH03=NI8P8NhaBJYN1NBC.SH04=OLK9+ZxCX9PRWpGg.SH05=S4BLWMhnXWYkMdyq.SH06=TR0v7qnPg2par2fS.SH07=fj7wdNujbOoWqX9L.SH08=gjzjswSlWQoJKEt4.SH09=k8fe0qYv++tZZhop.SH0a=oooM8FJi/KDNl8hJ.SH0b=2Ks6W2G74+UUZbem.SH0c=8L8aCnjQicXE1Kul.SH0d=8YpEO3svCgEvtZgK
+  Payload (HEX): 14 e9 14 e9 01 92 25 8a 00 00 80 00 00 00 00 02 00 00 00 00 05 69 76 69 6e 73 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 21 80 01 00 00 00 78 00 13 00 00 00 00 1e 00 05 69 76 69 6e 73 05 6c 6f 63 61 6c 00 c0 0c 00 10 80 01 00 00 11 94 01 3c 07 50 3d 36 35 32 38 30 15 53 48 30 30 3d 46 74 76 67 43 70 44 56 38 77 52 39 38 6a 6e 67 15 53 48 30 31 3d 4b 5a 73 62 48 69 47 46 70 71 68 49 6a 65 64 6b 15 53 48 30 32 3d 4d 39 38 51 52 47 4e 56 41 6a 75 75 71 64 6e 47 15 53 48 30 33 3d 4e 49 38 50 38 4e 68 61 42 4a 59 4e 31 4e 42 43 15 53 48 30 34 3d 4f 4c 4b 39 2b 5a 78 43 58 39 50 52 57 70 47 67 15 53 48 30 35 3d 53 34 42 4c 57 4d 68 6e 58 57 59 6b 4d 64 79 71 15 53 48 30 36 3d 54 52 30 76 37 71 6e 50 67 32 70 61 72 32 66 53 15 53 48 30 37 3d 66 6a 37 77 64 4e 75 6a 62 4f 6f 57 71 58 39 4c 15 53 48 30 38 3d 67 6a 7a 6a 73 77 53 6c 57 51 6f 4a 4b 45 74 34 15 53 48 30 39 3d 6b 38 66 65 30 71 59 76 2b 2b 74 5a 5a 68 6f 70 15 53 48 30 61 3d 6f 6f 6f 4d 38 46 4a 69 2f 4b 44 4e 6c 38 68 4a 15 53 48 30 62 3d 32 4b 73 36 57 32 47 37 34 2b 55 55 5a 62 65 6d 15 53 48 30 63 3d 38 4c 38 61 43 6e 6a 51 69 63 58 45 31 4b 75 6c 15 53 48 30 64 3d 38 59 70 45 4f 33 73 76 43 67 45 76 74 5a 67 4b
+
+Packet 205:
+  Time: 2025-07-04 20:40:39.373
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.236.125
+  Destination: 224.0.0.252
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 03 e0 00 00 fc
+
+Packet 206:
+  Time: 2025-07-04 20:40:39.378
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.236.125
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 207:
+  Time: 2025-07-04 20:40:39.588
+  Version: IPv4
+  Protocol: IGMP
+  Source: 172.16.233.117
+  Destination: 224.0.0.251
+  Length: 32 bytes
+  Payload Length: 8 bytes
+  Payload (ASCII): ........
+  Payload (HEX): 16 00 09 04 e0 00 00 fb
+
+Packet 208:
+  Time: 2025-07-04 20:40:39.697
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.227.175
+  Destination: 162.159.61.3
+  Length: 1278 bytes
+  Ports: 57624 -> 443
+  Payload Length: 1258 bytes
+  Payload (ASCII): ......E"........hB.....D..G..4.xy.(\.....~kW/:d..1..1^~e.:.>f..).W..|..TY.....ye..[O.p.vx.....lf...x.)........D.f._.....7..*i.j.....&...T.4F.(.n.%w....+CP..P.WpYO..^+..X.,...b..8R5...P..{.!.b....%.HA.......I....6)....=C.yG.2~d.."!Fn.>,.>[..6..r.e.V|Q8O...{Fm.....M....z..U.}..jvk...o.DR].3e2R@w..-<l...ZpT.i^..F!...9a.M...TA..fq.:.)....X.{.q.j".b.`W...9...8....k.1...'..WB.>.M....L..L!9......}`..l.....>.`.'q..[s.S}.....0..C.9.......K9...(.h..u.95.^hx"..UF.TR8..]..D..c..h.65h..&.P....S...s........8b>Ml.s.....54...T...9FU.RfN.=...o.#....!.......$z.".%1(...+....a...')..5.@K.2D.._..VH..Dx..m=*.xex.)..3...Q|3R.'.Q2..[...T....#.k..LI.}......vJp.F.X.!....p..c.4,.V0;0..j..ue.}...........Q...L.r.....q...a....Z.....X....n0..?s..{~u.g`.....}Q u..D.>*...g.yAQ...@.F[-m.]....M....}..............z.&J...e.!....F...#.....Zs.`3.b.tq...j......G..C..(...Oj. Dx....&..}a..a.u...T..W....GN=.....+YD......ag..vF.....ffOI.~..vu...._..79.6'.$.h...&.......x.._r..*f4....)......z.@Z..+.,...W..,.7i.r.]T..61.A..].P......C.....R..`@...`.+....@H..AF#.aN._..7-.[.3.\......o.?.,7.R..r`.^.$........&prM)o?...k0._.D..w...u8...@....+)..!......%0@.v..`.j.....H...)+./.6.......uiN.4...8O!..m......:.s.U[...m.8...B.A2
+  Payload (HEX): e1 18 01 bb 04 ea 45 22 ce 00 00 00 01 08 1c ef 68 42 e9 96 06 c9 00 00 44 d0 0c 47 8c f3 34 c8 78 79 aa 28 5c 99 13 a2 89 1e 7e 6b 57 2f 3a 64 9a 07 31 d2 e6 31 5e 7e 65 03 3a e2 3e 66 1a c3 29 13 57 d2 c9 7c d2 ee 54 59 a5 88 aa 0e 90 79 65 e7 04 5b 4f a3 70 f8 76 78 d5 09 16 1e 11 6c 66 fc ab 06 78 d9 93 29 c8 1c 7f 16 0d af 9c e7 44 df 66 9d 5f 06 a7 97 84 1c 37 15 ac 2a 69 86 6a 12 9d cb 17 bc 26 cd 15 18 54 80 34 46 a1 28 b3 6e fe 25 77 e6 c3 90 14 80 2b 43 50 e1 9e 81 dd 50 aa 57 70 59 4f fc 87 5e 2b fe ce 58 9c 2c 97 b0 e3 62 e3 8c a3 a3 38 52 35 1a ce bd aa 50 b0 0f 7b db 21 00 62 15 a4 cf 04 25 a9 48 41 0d 00 fc 02 0a e0 fd 49 d8 e6 09 d5 36 29 18 08 ef dd 3d 43 8e 79 47 a3 32 7e 64 8f 11 22 21 46 6e fb 3e 2c 1e 3e 5b 82 bf 36 c0 8c 72 8c 65 ca 56 7c 51 38 4f ff 7f 19 7b 46 6d 7f 93 80 1d 11 4d b0 f0 16 a0 7a 11 d4 8d 55 a4 7d 9f be 6a 76 6b 0f c8 94 e7 6f 8b 44 52 5d 19 33 65 32 52 40 77 86 e0 2d 3c 6c de 85 be f6 5a 70 54 bf 69 5e be f0 a2 46 21 a5 99 af 39 61 01 4d b7 eb 99 d8 54 41 2e ea 66 71 98 3a ac 29 2e ec ce c0 58 13 7b c5 71 a9 6a 22 bb 62 11 60 57 c0 eb a0 16 39 e8 b3 e4 0d 38 cb 04 fe b8 6b a7 31 ae e7 e3 27 de 1d 57 42 92 3e ce 4d 19 ff b6 f7 4c d3 d3 4c 21 39 c6 2e 8a 8d f0 00 7d 60 9c f5 6c d3 18 d5 f7 14 3e c4 60 8a 27 71 f7 ef 5b 73 9a 53 7d 9a c1 e6 c6 e9 30 a7 b1 43 e1 39 0e b6 c1 df b9 ec fb aa 4b 39 d4 ab 19 e2 28 a4 68 f1 ce 75 d4 39 35 b2 5e 68 78 22 82 e8 ba 55 46 d6 54 52 38 de ee a0 5d 97 dc 9e 44 82 cb 63 be a6 68 e6 36 35 68 89 f3 26 ed 50 f7 d6 d4 d3 53 ab 93 f0 73 df b8 80 aa fa f8 c2 c5 b6 e9 86 38 62 3e 4d 6c 16 73 0f a1 ce 88 90 a5 35 34 ac 1d f0 54 14 1c ee 39 46 55 cd 52 66 4e e9 3d ee f0 e1 6f 8f 23 08 93 93 de 84 21 0e 12 8f 87 c5 fa 11 24 7a e1 a3 22 b8 25 31 28 ea a2 89 98 06 2b f3 ac b7 d6 d8 97 a7 61 d1 f2 e5 27 29 cc e4 35 f6 40 4b a7 32 44 01 c6 9c 5f ab f9 56 48 ee 8e 1a 44 78 eb b3 d4 6d 3d 2a e6 78 65 78 bf 29 eb b9 c1 33 ce d1 c9 51 7c 33 52 8c 27 0e 51 32 ed dd 5b a7 0e ce 99 54 98 0a 9b b9 23 b6 6b 91 a9 4c 49 b3 7d e6 e9 f3 0e 9e f9 76 4a 70 fa 46 16 58 ce 21 aa 85 17 e6 70 97 d4 83 63 80 34 2c 8b 56 30 3b 30 09 fa 6a a3 d8 75 65 ed 7d a0 ca bf a5 98 7f d3 da f3 d3 91 af 05 51 be 8b b3 4c 94 72 e5 eb e5 fe da 71 c8 f5 08 61 b9 bb ce 8e 00 5a f5 1b e0 f8 b1 58 c2 8c c9 b9 d0 e4 6e 30 ba bf 3f 73 ab 95 7b 7e 75 8a 67 60 87 e8 1d fb 13 7d 51 20 75 08 bf 44 e7 3e 2a f5 15 02 67 b2 79 41 51 2e b9 18 40 be 46 5b 2d 6d 96 5d 04 bc 05 7f 4d e0 89 90 ff 7d 02 fc 0c fa ac b9 e0 01 f5 fa b1 a9 f7 f3 7a ec 26 4a 9d d1 1f 65 c6 21 2e 8a ce b7 80 46 d5 10 a0 23 aa ad 99 aa bc 5a 73 8e 60 33 0e 62 c4 74 71 96 d0 a7 97 6a bf a5 0f 90 8d 09 47 04 8d 43 01 f2 28 a0 e8 d7 b4 4f 6a 13 20 44 78 97 e6 8e 9d af af 26 8d d7 7d 61 a3 14 61 05 75 d4 a0 e9 03 54 ee da 57 8a a7 0d d4 47 4e 3d e8 87 e1 ce a0 f2 e8 2b 59 44 b2 d3 b1 90 b5 ed 02 61 67 1e d4 b5 76 46 ac be d2 f2 c0 66 66 4f 49 eb 7e bc 91 76 75 b9 b7 ae a8 5f d0 cd 98 37 39 e5 36 27 aa 24 d4 68 16 b5 fe 26 ef eb ed f1 8c 89 e2 b6 d2 ce 78 1d 04 5f 72 d0 b8 e6 98 96 2a 66 34 19 c4 da c6 29 86 8b f5 ee fa 08 7a 1a 40 5a 8b ff 2b a8 2c fc 0a d7 57 0b fc 2c 1f 37 69 b6 72 dc 5d 54 db 9f d0 36 31 ce 41 f7 b3 5d b0 50 9e 81 b3 8f ef 0a 43 1c 00 e1 fb af 52 a0 0e 60 40 b5 a2 a7 60 8a 2b 06 04 96 87 40 48 f5 8d 41 46 23 8f 61 4e fb 5f 17 cf 37 2d 09 5b 89 33 06 5c 0d b2 b4 b5 a8 c2 6f de 3f c3 2c 37 9d 52 8c c8 b8 72 60 c7 5e b5 24 a2 d8 fa 00 90 97 94 ad 26 70 72 4d 29 6f 3f f1 86 c3 dc 6b 30 03 5f 80 44 98 87 77 cc dc 8e 1b 75 38 0d b8 e5 a6 40 d3 ba c9 1b d3 2b 29 86 89 21 d6 a6 0f f7 e4 ac ea ac c5 25 30 40 e0 76 c2 0a 60 ee 6a fb 83 1c 13 f0 48 93 1a b5 29 2b fc 2f eb b3 36 8e 16 b9 af 1f ae 06 75 69 4e e7 34 f8 18 99 38 4f 21 82 b9 6d da 14 a6 01 05 90 3a bc 73 fb 55 5b 99 c1 85 6d a4 38 f9 c5 a8 c3 42 2e 41 32
+
+Packet 209:
+  Time: 2025-07-04 20:40:39.810
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.229.170
+  Destination: 224.0.0.251
+  Length: 220 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 200 bytes
+  Payload (ASCII): ......Fo............._dosvc._tcp.local..........#.LAPTOP-GJ9EV346._dosvc._tcp.local..LAPTOP-GJ9EV346._dosvc._tcp.local..!...............LAPTOP-GJ9EV346.local..L...........P=65280.SH00=oooM8FJi/KDNl8hJ
+  Payload (HEX): 14 e9 14 e9 00 c8 46 6f 00 00 84 00 00 00 00 01 00 00 00 02 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 0c 00 01 00 00 00 00 00 23 0f 4c 41 50 54 4f 50 2d 47 4a 39 45 56 33 34 36 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 0f 4c 41 50 54 4f 50 2d 47 4a 39 45 56 33 34 36 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 21 00 01 00 00 00 00 00 1d 00 00 00 00 1e 00 0f 4c 41 50 54 4f 50 2d 47 4a 39 45 56 33 34 36 05 6c 6f 63 61 6c 00 c0 4c 00 10 00 01 00 00 00 00 00 1e 07 50 3d 36 35 32 38 30 15 53 48 30 30 3d 6f 6f 6f 4d 38 46 4a 69 2f 4b 44 4e 6c 38 68 4a
+
+Packet 210:
+  Time: 2025-07-04 20:40:39.821
+  Version: IPv4
+  Protocol: UDP
+  Source: 172.16.229.170
+  Destination: 224.0.0.251
+  Length: 79 bytes
+  Ports: 5353 -> 5353
+  Payload Length: 59 bytes
+  Payload (ASCII): .....;.q.............LAPTOP-GJ9EV346._dosvc._tcp.local.....
+  Payload (HEX): 14 e9 14 e9 00 3b 88 71 00 00 00 00 00 01 00 00 00 00 00 00 0f 4c 41 50 54 4f 50 2d 47 4a 39 45 56 33 34 36 06 5f 64 6f 73 76 63 04 5f 74 63 70 05 6c 6f 63 61 6c 00 00 ff 00 01
